@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Kangasalan Java-kurssi (perusteet), syksy 2019</title>
+    <link>https://areee.github.io/kanglu/docs/</link>
+    <description>Recent content in Docs on Kangasalan Java-kurssi (perusteet), syksy 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi</language>
+    
+	<atom:link href="https://areee.github.io/kanglu/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aloitus ja asennus</title>
+      <link>https://areee.github.io/kanglu/docs/asennus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://areee.github.io/kanglu/docs/asennus/</guid>
+      <description>Aloitus ja asennus Käyttöönotto  Tunnusten luominen TMC:hen Javan ja NetBeans with TMC:n lataaminen ja asentaminen  Orientaatio: mitä löytyy mistäkin  Linkkejä:  https://materiaalit.github.io/ohjelmointi-18/ https://tmc.mooc.fi/org/kanglu/courses/498   Asennus  ks. ohjeet: https://materiaalit.github.io/tmc-asennus/netbeans_for_windows/
+  Täydennys ohjeisiin  Javan lataaminen vaatii kirjautumisen Oraclen tilille. Käytä netistä kaivettuja, toimivia tunnuksia (toimi ainakin 12. ja 13.8.2019):
+ käyttäjätunnus: nicabeta@email-wizard.com salasana: MQEemoh3pOsRAn2c4tjh   Onko koneessani jo ennestään Javan oikea versio? Voit kirjoittaa tietokoneesi komentoriville / päätteeseen / Terminaaliin seuraavat rivit:</description>
+    </item>
+    
+  </channel>
+</rss>

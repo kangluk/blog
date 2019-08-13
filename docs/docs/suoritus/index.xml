@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kurssin suorittaminen on Kangasalan Java-kurssi (perusteet), syksy 2019</title>
+    <link>https://areee.github.io/kanglu/docs/suoritus/</link>
+    <description>Recent content in Kurssin suorittaminen on Kangasalan Java-kurssi (perusteet), syksy 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi</language>
+    <lastBuildDate>Tue, 13 Aug 2019 07:28:51 +0300</lastBuildDate>
+    
+	<atom:link href="https://areee.github.io/kanglu/docs/suoritus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Viikko 1</title>
+      <link>https://areee.github.io/kanglu/docs/suoritus/viikko1/</link>
+      <pubDate>Tue, 13 Aug 2019 07:28:51 +0300</pubDate>
+      
+      <guid>https://areee.github.io/kanglu/docs/suoritus/viikko1/</guid>
+      <description>Viikko 1  Ensimmäisen viikon teoria ja tehtävät (osa 1)  Viikon 1 osaamistavoitteet: Tuntee ohjelmoinnin peruskäsitteistä muuttujat, ehtolauseet, toistolauseet. Ymmärtää ohjelman suoritusjärjestyksen. Tuntee loogiset operaatiot ja ja tai. Osaa kirjoittaa ohjelmia, jotka lukevat käyttäjältä syötettä ja tekevät laskentaa syötteen perusteella.
+1. viikon diat TULOSSA</description>
+    </item>
+    
+  </channel>
+</rss>

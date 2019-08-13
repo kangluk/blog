@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etusivu on Kangasalan Java-kurssi (perusteet), syksy 2019</title>
+    <link>https://areee.github.io/kanglu/</link>
+    <description>Recent content in Etusivu on Kangasalan Java-kurssi (perusteet), syksy 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi</language>
+    <lastBuildDate>Tue, 13 Aug 2019 07:28:51 +0300</lastBuildDate>
+    
+	<atom:link href="https://areee.github.io/kanglu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://areee.github.io/kanglu/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://areee.github.io/kanglu/posts/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://areee.github.io/kanglu/posts/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://areee.github.io/kanglu/posts/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Viikko 1</title>
+      <link>https://areee.github.io/kanglu/docs/suoritus/viikko1/</link>
+      <pubDate>Tue, 13 Aug 2019 07:28:51 +0300</pubDate>
+      
+      <guid>https://areee.github.io/kanglu/docs/suoritus/viikko1/</guid>
+      <description>Viikko 1  Ensimmäisen viikon teoria ja tehtävät (osa 1)  Viikon 1 osaamistavoitteet: Tuntee ohjelmoinnin peruskäsitteistä muuttujat, ehtolauseet, toistolauseet. Ymmärtää ohjelman suoritusjärjestyksen. Tuntee loogiset operaatiot ja ja tai. Osaa kirjoittaa ohjelmia, jotka lukevat käyttäjältä syötettä ja tekevät laskentaa syötteen perusteella.
+1. viikon diat TULOSSA</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://areee.github.io/kanglu/posts/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://areee.github.io/kanglu/posts/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://areee.github.io/kanglu/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://areee.github.io/kanglu/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Aloitus ja asennus</title>
+      <link>https://areee.github.io/kanglu/docs/asennus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://areee.github.io/kanglu/docs/asennus/</guid>
+      <description>Aloitus ja asennus Käyttöönotto  Tunnusten luominen TMC:hen Javan ja NetBeans with TMC:n lataaminen ja asentaminen  Orientaatio: mitä löytyy mistäkin  Linkkejä:  https://materiaalit.github.io/ohjelmointi-18/ https://tmc.mooc.fi/org/kanglu/courses/498   Asennus  ks. ohjeet: https://materiaalit.github.io/tmc-asennus/netbeans_for_windows/
+  Täydennys ohjeisiin  Javan lataaminen vaatii kirjautumisen Oraclen tilille. Käytä netistä kaivettuja, toimivia tunnuksia (toimi ainakin 12. ja 13.8.2019):
+ käyttäjätunnus: nicabeta@email-wizard.com salasana: MQEemoh3pOsRAn2c4tjh   Onko koneessani jo ennestään Javan oikea versio? Voit kirjoittaa tietokoneesi komentoriville / päätteeseen / Terminaaliin seuraavat rivit:</description>
+    </item>
+    
+  </channel>
+</rss>
