@@ -2,18 +2,18 @@
 title: "Kurssin suorittaminen"
 type: docs
 bookToc: false
-weight: 5
 ---
 
 # Kurssin suorittaminen
 
-- 7 osaa materiaalissa (teoria + tehtävät)
-	- 6 viikkoa lähiopetusta, koeviikko opiskellaan itsenäisesti (tarpeen mukaan luvassa myös Artun etäopetusta, tästä sovitaan myöhemmin)
-- Tavoite: opiskele viikko per osa
+## OHJ01.1 & OHJ02.1
+- 7 osaa kummankin kurssin materiaalissa, joka sisältää teorian ja tehtävät
+	- 6 viikkoa lähiopetusta + koeviikko, joka opiskellaan itsenäisesti (tarpeen mukaan luvassa myös Artun livelähetys ja etätukea, tästä sovitaan myöhemmin)
+	- Tavoite: opiskele viikko per osa
 - Jokaisen osan tehtävistä on laadittava **vähintään 25 %** kurssin hyväksymiseksi
-	- Seuraavan osan tehtäviin pääsee käsiksi kun on tehnyt vähintään 25% edellisen osan tehtävistä (tästä TMC-järjestelmä pitää huolen)
+	- Seuraavan osan tehtäviin pääsee käsiksi, kun on tehnyt vähintään 25% edellisen osan tehtävistä (tästä TMC-järjestelmä pitää huolen)
 - Aikaa kannattaa varata tehtävien tekemiseen!
-	- Ensimmäisten osien kohdalla tehtävät tulee luultavasti tehtyä rivakasti (~muutamassa tunnissa), mutta lähestyttäessä viikkoa 7 aikaa voi hyvinkin mennä jopa 20 tuntia per osa!
+	- Ensimmäisten osien kohdalla tehtävät tulee luultavasti tehtyä rivakasti (opiskelijasta riippuen mahdollisesti muutamassa tunnissa), mutta lähestyttäessä viikkoa 7 aikaa voi hyvinkin mennä jopa 20 tuntia per osa!
 
 ## Kurssin käytänteet
 

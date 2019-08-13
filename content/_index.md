@@ -19,8 +19,8 @@ Kurssin lähiopetus pidetään biologian **luokassa 235** perjantain tunteja luk
 
 Pvm | Klo | Teema
 --- | --- | ---
-ti 13.8. | 9.45-11.00 | **Osa 1** Aloitus ja asennus.
-ke 14.8. | 12.00-13.15 | Osa 1
+~~ti 13.8.~~ | ~~9.45-11.00~~ | ~~**Osa 1** Aloitus ja asennus.~~
+ke 14.8. | 12.00-13.15 | **Osa 1** Aloitus ja asennus. Nopeimmat voivat tehdä omaan tahtiin tehtäviä.
 pe 16.8. | 13.30-14.45 | Etätunti, osa 1
 ti 20.8. | 9.45-11.00 | **Osa 2**
 ke 21.8. | 12.00-13.15 | Osa 2

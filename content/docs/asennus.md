@@ -1,6 +1,5 @@
 ---
 title: "Aloitus ja asennus"
-weight: 10
 ---
 
 # Aloitus ja asennus
