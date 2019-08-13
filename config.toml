@@ -1,4 +1,4 @@
 baseURL = "https://kangluk.github.io/"
 languageCode = "fi"
-title = "Kangasalan Java-kurssi (perusteet), syksy 2019"
+title = "Kangasalan Java-kurssi, syksy 2019"
 theme = "book"
