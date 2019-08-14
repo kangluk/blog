@@ -54,7 +54,7 @@ bookToc: true
 ### Osaamistavoitteet
 Kursseilla opitaan perustaidot ohjelmoinnista Java-kielellä. Tutuksi tulevat muun muassa syötteen lukeminen, tulostaminen, ehtolauseet, toistolauseet, listojen käsittely, oliot, ymym.
 
-#### OHJ01.1 (Ohjelmointi 1 ja 2) -kurssit
+#### OHJ01.1-kurssi (opinto-oppaassa Ohjelmointi 1 ja 2 -kurssit)
 
 Osa | Osaamistavoitteet
 --- | ---
@@ -65,5 +65,9 @@ Osa | Osaamistavoitteet
 5 |	Ymmärtää alkeis- ja viittaustyyppisten muuttujien erot. Osaa määritellä olioita, jotka sisältävät olioita. Osaa käyttää olioita metodin parametrina sekä luoda metodeja, jotka palauttavat olioita. Osaa käsitellä olioita listarakenteessa sekä käyttää listaa oliomuuttujana.
 6 |	Tuntee käsitteen tiedosto. Osaa lukea tietoa erilaisista tietolähteistä (mm. tiedosto, verkko). Ymmärtää hajautustaulun periatteen. Osaa kirjoittaa hajautustaulua käyttäviä ohjelmia ja osaa luoda satunnaislukuja Javan avulla. Tuntee staattisten ja ei staattisten metodien erot ja tutustuu sovelluksen jakamiseen useampaan vastuualueeseen (tekstikäyttöliittymä, sovelluslogiikka).
 7 |	Osaa pilkkoa ohjelman useampaan osaan, missä yhden vastuulla on (tekstimuotoinen) käyttöliittymä, toisen vastuulla sovelluslogiikka. Tuntee testivetoisen ohjelmistokehityksen perusajatuksen ja osaa kirjoittaa ohjelman metodien toiminnallisuutta tarkastelevia testejä. Ryhmittelee arvoja hajautustaulun avulla ja osaa käyttää listaa hajautustaulun arvona. Osaa luoda yksinkertaisia simulaatioita.
+
+#### OHJ02.1-kurssi (opinto-oppaassa Ohjelmointi 3, 4 ja 5 -kurssit)
+
+TAULUKKO TULEE LÄHEMPÄNÄ LOKAKUUTA (2. JAKSOA)
 
 Osaamistavoitteiden lähde: https://materiaalit.github.io/ohjelmointi-18/ (Creative Commons BY-NC-SA -lisenssi, Helsingin yliopiston Agile Education Research -tutkimusryhmä)
