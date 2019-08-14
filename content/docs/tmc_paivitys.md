@@ -13,7 +13,7 @@ Näin pyritään välttämään tilannetta, jossa NetBeans kaatuu/hidastuu 70:n 
 
 1. Pienennä projektien "tiedostopuut" (Macissa kolmio-nappi (ks. kuva), Windowsissa plus-miinus -nappi)
 
-![kuvatest](kuva3.png "Logo Title Text 1")
+![kuvatest](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva3.png "Logo Title Text 1")
 
 2. Valitse kaikki projektit
 	- Ctrl A -pikanäppäin tai klikkaa Shift/Vaihto-näppäin pohjassa ensimmäistä ja viimeistä projektia
