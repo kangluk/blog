@@ -17,19 +17,27 @@ bookToc: false
 
 ## Kurssin käytänteet
 
+### Käänteinen opetus (flipped learning)
+
+*Käänteinen opetus (tai käänteinen luokkahuone, engl. flipped classroom t. flipped learning) on monimuoto-opetuksen muoto, jossa käytetään apuna internetissä olevia opetusmateriaaleja, jolloin varsinaisella oppitunnilla jää enemmän aikaa opettajan ja opiskelijoiden väliselle vuorovaikutukselle. Yleisimmin tämä tehdään antamalla opiskelijoille esitehtäväksi verkossa olevien videoiden katsominen ja niihin perustuvien tehtävien tekeminen.* ([Wikipedia](https://fi.wikipedia.org/wiki/K%C3%A4%C3%A4nteinen_opetus))
+
+- **Kotitehtävä**: Etukäteen ennen jokaista oppituntia on luettava sen viikon materiaalia, joka on käsittelyssä
+- Näin oppitunneille jää aikaa käydä läpi hankalia ongelmakohtia ja tehdä tehtäviä, kun teoriasta on jo hieman tietoa
+	- Arttu voi myös näyttää tunneilla, miten osan hankalaksi koetuista tehtävistä pystyy ratkaisemaan
+
 ### WhatsApp-ryhmä
-- Viestintään, kysymyksiin ja perjantain etäopetuksen "tukikanava" (laita kysymyksiä etukäteen WhatsApp-ryhmään, Arttu vastaa perjantaisin)
-- Liittyminen: lähetä Artulle WhatsApp-viesti *[oma nimi]* numeroon *XXX* (numero kerrotaan ensimmäisillä oppitunneilla)
+- Viestintään, kysymyksiin, tukikanavaksi ja perjantain etäopetuksen "shoutboxiksi" (laita kysymyksiä etukäteen WhatsApp-ryhmään, Arttu vastaa oppitunneilla)
+- **Liittyminen**: lähetä Artulle WhatsApp-viesti *Etunimi Sukunimi* numeroon *XXX* (puhelinnumero kerrotaan ensimmäisillä oppitunneilla)
 
-### Käänteinen luokkahuone
-
-- *Kotitehtävä*: Etukäteen ennen jokaista oppituntia on luettava sen viikon materiaalia, joka on käsittelyssä
-- Oppitunneilla on aikaa käydä läpi hankalia ongelmakohtia ja tehdä tehtäviä, kun teoriasta on jo hieman tietoa
-
+### "Läsnäolopakko"
+- Kurssin oppitunneilla (myös perjantain etätunneilla) on läsnäolopakko samaan tapaan kuin millä tahansa muullakin kurssilla
+- Poissaolot merkitään jokaisen oppitunnin alussa
 
 ### Perjantain oppitunneista
-- Perjantaisin on luvassa etäopetusta
-- Artun ehdotus sisällöstä: Hangouts-livelähetys, jossa vastaan teidän Whatsappissa lähettämiinne kysymyksiin
+- Perjantaisin on luvassa etäopetusta, eli oppitunti pidetään verkon kautta
+- **Vaatimus, jotta poissaoloa ei merkata:** jokaisen perjantain oppitunnilla läsnäolevan on **kysyttävä vähintään yksi (1) kysymys käsiteltävästä aiheesta** livelähetyksen aikana osoittaakseen läsnäolonsa etätunnilla
+	- Muuten en voi tietää, oletko oikeasti ollut oppitunnilla vai jossain baanalla (vaikkapa Helsingin [Baanalla](https://fi.wikipedia.org/wiki/Baana))
+- Artun ehdotus sisällöstä: Google Hangouts -livelähetys, jossa vastaan teidän Whatsappissa lähettämiinne kysymyksiin
 
 ### Osaamistavoitteet
 Kursseilla opitaan perustaidot ohjelmoinnista Java-kielellä. Tutuksi tulevat muun muassa syötteen lukeminen, tulostaminen, ehtolauseet, toistolauseet, listojen käsittely, oliot, ymym.

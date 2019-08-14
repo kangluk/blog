@@ -14,4 +14,4 @@ Tuntee ohjelmoinnin peruskäsitteistä muuttujat, ehtolauseet, toistolauseet. Ym
 
 ## 1. viikon diat
 
-Diat löytyvät PDF-muodossa [Google Drivesta](https://drive.google.com/file/d/1JL98cRvrC_z9Op2wRRLXlR-HKcnbVd1Z/view?usp=sharing)
+Diat löytyvät PDF-muodossa [Google Drivesta](https://drive.google.com/file/d/1JL98cRvrC_z9Op2wRRLXlR-HKcnbVd1Z/view?usp=sharing).
