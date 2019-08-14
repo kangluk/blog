@@ -9,7 +9,7 @@ Mukavaa, että päätit avata oven ohjelmoinnin ihmeelliseen maailmaan! [Java-oh
 
 *"Ohjelmointi on yhä merkittävämmässä roolissa nyky-yhteiskunnassa ja yhä harvempi työpaikka on kokonaan irrallaan digitaalisesta maailmasta. Sitä ovat nämäkin nettisivut, älypuhelimet, digitaaliset karttapalvelut ja reittioppaat."* ([Aalto PRO](https://www.aaltopro.fi/aalto-leaders-insight/2018/miksi-ohjelmointia-pitaa-opetella-ja-miksi-kannattaa-aloittaa-juuri-pythonista))
 
-Sivuston ylläpidosta vastaa ohjelmoinnin opettaja Arttu Ylhävuori. Kurssimateriaalina on pääasiallisesti käytetty Helsingin yliopiston Ohjelmoinnin MOOC -materiaalia.
+Sivuston ylläpidosta vastaa ohjelmoinnin opettaja [Arttu Ylhävuori](https://twitter.com/arttuylh). Kurssimateriaalina on pääasiallisesti käytetty Helsingin yliopiston [Ohjelmoinnin MOOC 2019](https://ohjelmointi-19.mooc.fi/) ja [Ohjelmoinnin MOOC 2018](https://materiaalit.github.io/ohjelmointi-18/) -materiaaleja.
 
 ## Paikka ja aika
 
