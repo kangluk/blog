@@ -1,12 +1,12 @@
 ---
 title: "Kurssin suorittaminen"
 type: docs
-bookToc: false
+bookToc: true
 ---
 
 # Kurssin suorittaminen
 
-## OHJ01.1 & OHJ02.1
+## OHJ01.1 ja OHJ02.1 -kurssit
 - 7 osaa kummankin kurssin materiaalissa, joka sisältää teorian ja tehtävät
 	- 6 viikkoa lähiopetusta + koeviikko, joka opiskellaan itsenäisesti (tarpeen mukaan luvassa myös Artun livelähetys ja etätukea, tästä sovitaan myöhemmin)
 	- Tavoite: opiskele viikko per osa
@@ -16,6 +16,16 @@ bookToc: false
 	- Ensimmäisten osien kohdalla tehtävät tulee luultavasti tehtyä rivakasti (opiskelijasta riippuen mahdollisesti muutamassa tunnissa), mutta lähestyttäessä viikkoa 7 aikaa voi hyvinkin mennä jopa 20 tuntia per osa!
 
 ## Kurssin käytänteet
+
+### Kurssisuoritus
+- Ei koetta
+	- Ainoa vaatimus: 25 % per osa hyväksytysti ratkaistu
+- Kurss(e)ista saa suoritusmerkinnän (S)
+	- Arviointi: hyväksytty / hylätty
+- Periaatteet:
+	- Osien 1–7 suoritus (OHJ01.1 / 1. jakso) = 2 kurssia
+	- Osien 8–14 suoritus (OHJ02.1 / 2. jakso) = 3 kurssia
+	- Jos suorittaa siis molemmat OHJ01.1 ja OHJ02.1 -kurssit, saa yhteensä 5 kurssia ohjelmointikurssista
 
 ### Käänteinen opetus (flipped learning)
 
@@ -37,12 +47,13 @@ bookToc: false
 - Perjantaisin on luvassa etäopetusta, eli oppitunti pidetään verkon kautta
 - **Vaatimus, jotta poissaoloa ei merkata:** jokaisen perjantain oppitunnilla läsnäolevan on **kysyttävä vähintään yksi (1) kysymys käsiteltävästä aiheesta** livelähetyksen aikana osoittaakseen läsnäolonsa etätunnilla
 	- Muuten en voi tietää, oletko oikeasti ollut oppitunnilla vai jossain baanalla (vaikkapa Helsingin [Baanalla](https://fi.wikipedia.org/wiki/Baana))
+	- Kysymys voi olla ihan mikä vaan, kunhan se liittyy käsiteltävään aiheeseen
 - Artun ehdotus sisällöstä: Google Hangouts -livelähetys, jossa vastaan teidän Whatsappissa lähettämiinne kysymyksiin
 
 ### Osaamistavoitteet
 Kursseilla opitaan perustaidot ohjelmoinnista Java-kielellä. Tutuksi tulevat muun muassa syötteen lukeminen, tulostaminen, ehtolauseet, toistolauseet, listojen käsittely, oliot, ymym.
 
-#### Ohjelmoinnin perusteet
+#### OHJ01.1 (Ohjelmointi 1 ja 2) -kurssit
 
 Osa | Osaamistavoitteet
 --- | ---
