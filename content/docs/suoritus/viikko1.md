@@ -6,11 +6,13 @@ draft: false
 
 # Viikko 1 (13.–18.8.2019)
 
-Ensimmäisen viikon teoria ja tehtävät löytyvät osoitteesta https://materiaalit.github.io/ohjelmointi-18/part1/
+Ensimmäisen viikon teoria ja tehtävät löytyvät osoitteesta https://ohjelmointi-19.mooc.fi/osa-1
 
 ## Viikon 1 osaamistavoitteet
 
-Tuntee ohjelmoinnin peruskäsitteistä muuttujat, ehtolauseet, toistolauseet. Ymmärtää ohjelman suoritusjärjestyksen. Tuntee loogiset operaatiot ``ja`` ja ``tai``. Osaa kirjoittaa ohjelmia, jotka lukevat käyttäjältä syötettä ja tekevät laskentaa syötteen perusteella.
+*Osaat kirjoittaa ohjelmia, jotka lukevat käyttäjältä syötettä ja tekevät laskentaa syötteen perusteella. Tunnet käsitteet muuttuja, ehtolause ja toistolause, ja osaat käyttää näitä ohjelmissasi.*
+
+Osaamistavoitteiden lähde: https://ohjelmointi-19.mooc.fi/osaamistavoitteet (Creative Commons BY-NC-SA 4.0 -lisenssi, Helsingin yliopiston Agile Education Research -tutkimusryhmä, ks. https://ohjelmointi-19.mooc.fi/credits/)
 
 ## 1. viikon diat
 

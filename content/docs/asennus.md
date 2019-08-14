@@ -24,7 +24,7 @@ Javan lataaminen vaatii kirjautumisen Oraclen tilille. Käytä [netistä kaivett
 - *käyttäjätunnus*: nicabeta@email-wizard.com
 - *salasana*: MQEemoh3pOsRAn2c4tjh
 
-Jos sinulla on muita versioita Javasta asennettuna ne, saattavat estää ohjelmointiympäristöä toimimasta oikein. Tässä tilanteessa suosittelemme poistamaan muut Javan versiot. Erityisesti Javan versiot 9, 10 ja 11 ovat ongelmallisia.
+Jos sinulla on muita versioita Javasta asennettuna, ne saattavat estää ohjelmointiympäristöä toimimasta oikein. Tässä tilanteessa suosittelemme poistamaan muut Javan versiot. Erityisesti Javan versiot 9, 10 ja 11 ovat ongelmallisia.
 
 ## 2. Lataa ja asenna NetBeans
 
@@ -50,13 +50,13 @@ Javan lataaminen vaatii kirjautumisen Oraclen tilille. Käytä [netistä kaivett
 - *käyttäjätunnus*: nicabeta@email-wizard.com
 - *salasana*: MQEemoh3pOsRAn2c4tjh
 
-Jos sinulla on muita versioita Javasta asennettuna ne, saattavat estää ohjelmointiympäristä toimimasta oikein. Tässä tilanteessa suosittelemme poistamaan muut Javan versiot. Erityisesti Javan versiot 9, 10 ja 11 ovat ongelmallisia.
+Jos sinulla on muita versioita Javasta asennettuna, ne saattavat estää ohjelmointiympäristä toimimasta oikein. Tässä tilanteessa suosittelemme poistamaan muut Javan versiot. Erityisesti Javan versiot 9, 10 ja 11 ovat ongelmallisia.
 
 ## 2. Lataa ja asenna NetBeans
 
 Lataa tiedosto http://update.testmycode.net/installers/tmc-netbeans_org_mooc/tmc-netbeans_org_mooc_tmcbeans-macosx.tgz. Kun tiedoston lataaminen on valmis, asenna sovellus koneellesi.
 
-Jos ladattu asennusohjelma ei meinaa aueta, koita avata se painamalla sitä hiiren oikealla näppäimellä ja valitsemalla Avaa/Open.
+Jos ladattu asennusohjelma ei näytä aukeavan, yritä avata se klikkaamalla sitä hiiren oikealla näppäimellä ja valitsemalla Avaa/Open.
 
 <span style="color:grey">Asennusohjeen lähde: ``https://materiaalit.github.io/tmc-asennus/netbeans_for_macos/``. Oikoluku: Arttu Ylhävuori</span>
 
@@ -71,7 +71,7 @@ Suosittelemme asentamaan Linuxissa OpenJDK-paketin. Esimerkiksi Ubuntussa sen vo
 
 	sudo apt-get install openjdk-8-jdk
 
-Jos sinulla on muita versioita Javasta asennettuna ne, saattavat estää ohjelmointiympäristä toimimasta oikein. Tässä tilanteessa suosittelemme poistamaan muut Javan versiot. Erityisesti Javan versiot 9, 10 ja 11 ovat ongelmallisia.
+Jos sinulla on muita versioita Javasta asennettuna, ne saattavat estää ohjelmointiympäristä toimimasta oikein. Tässä tilanteessa suosittelemme poistamaan muut Javan versiot. Erityisesti Javan versiot 9, 10 ja 11 ovat ongelmallisia.
 
 Vaihda Javan aktiivinen versio komennolla:
 
@@ -107,9 +107,19 @@ TMC (*TestMyCode – Programming assignment evaluator*) -palvelin löytyy osoitt
 
 ## 4. Avaa NetBeans ja kirjaudu sisään ohjelmointiympäristöön
 
-- Käynnistä asentamasi NetBeans-ohjelmointiympäristö
-- Kun ohjelmointiympäristö käynnistyy, se kysyy sinulta sähköpostiosoitetta ja salasanaasi
-- Aseta sähköpostiosoitteeksi ja salasanaksi edellisessä kohdassa luomasi TMC-tunnukset
+14.8.2019: MALLIKUVAT TULOSSA MYÖHEMMIN
+
+1. Käynnistä asentamasi NetBeans-ohjelmointiympäristö
+2. Kun ohjelmointiympäristö käynnistyy, se kysyy sinulta sähköpostiosoitetta ja salasanaasi
+3. Aseta sähköpostiosoitteeksi ja salasanaksi edellisessä kohdassa luomasi TMC-tunnukset
+4. Tämän jälkeen NetBeans kysyy organisaatiota ja kurssia, jossa teet tehtäviä
+	- Valitse organisaatioksi **"Kangasalan lukio"**
+	- Valitse kurssiksi **"UUSIN syksyn 2019 ohjelmointikurssi"**
+5. Sulje asetukset OK-napista
+6. Näkyviin tulee *Download exercises* -ikkuna
+	- Katso, että kaikki tehtävät on valittuna ja klikkaa *Download*-nappia
+7. Tehtävät latautuvat oletuksena tietokoneen *NetBeansProjects* -kansioon ja tulevat tarjolle NetBeansin vasempaan reunaan *Projects*-välilehdelle
+	- Jos välilehteä ei näy, avaa se NetBeansin ohjelmavalikosta *Window* → *Projects*
 
 
 # Onko koneessani jo ennestään oikea Java-versio?
@@ -134,4 +144,12 @@ Jos vastauksena ovat allaolevan tapaiset tulosteet, on kaikki kunnossa (riittä�
 
 	javac 1.8.0_221
 	
-Kuten jo aiemmin mainittu, tämän sivun lähteenä on: https://materiaalit.github.io/tmc-asennus/netbeans_for_windows/
+---
+
+Kuten jo aiemmin mainittu, tämän sivun lähteenä ovat seuraavat:
+
+- https://materiaalit.github.io/tmc-asennus/netbeans_for_windows/
+- https://materiaalit.github.io/tmc-asennus/netbeans_for_macos/
+- https://materiaalit.github.io/tmc-asennus/netbeans_for_linux/
+
+(Helsingin yliopiston Agile Education Research -tutkimusryhmä)

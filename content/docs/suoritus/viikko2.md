@@ -6,7 +6,7 @@ draft: true
 
 # Viikko 2 (19.–25.8.2019)
 
-Toisen viikon teoria ja tehtävät löytyvät osoitteesta https://materiaalit.github.io/ohjelmointi-18/part2/
+Toisen viikon teoria ja tehtävät löytyvät osoitteesta https://ohjelmointi-19.mooc.fi/osa-2
 
 ## Viikon 2 osaamistavoitteet
 

@@ -40,7 +40,7 @@ bookToc: true
 - Viestintään, kysymyksiin, tukikanavaksi ja perjantain etäopetuksen "shoutboxiksi" (laita kysymyksiä etukäteen WhatsApp-ryhmään, Arttu vastaa oppitunneilla)
 - **Liittyminen**: lähetä Artulle WhatsApp-viesti *Etunimi Sukunimi* numeroon *XXX* (puhelinnumero kerrotaan ensimmäisillä oppitunneilla)
 
-### "Läsnäolopakko"
+### Läsnäolopakko
 - Kurssin oppitunneilla (myös perjantain etätunneilla) on läsnäolopakko samaan tapaan kuin millä tahansa muullakin kurssilla
 - Poissaolot merkitään jokaisen oppitunnin alussa
 
@@ -52,22 +52,22 @@ bookToc: true
 - Artun ehdotus sisällöstä: Google Hangouts -livelähetys, jossa vastaan teidän Whatsappissa lähettämiinne kysymyksiin
 
 ### Osaamistavoitteet
-Kursseilla opitaan perustaidot ohjelmoinnista Java-kielellä. Tutuksi tulevat muun muassa syötteen lukeminen, tulostaminen, ehtolauseet, toistolauseet, listojen käsittely, oliot, ymym.
+Kursseilla opitaan perustaidot ohjelmoinnista Java-kielellä. Tutuksi tulevat muun muassa syötteen lukeminen, tulostaminen, ehtolauseet, toistolauseet, listojen käsittely ja oliot.
 
 #### OHJ01.1-kurssi (opinto-oppaassa Ohjelmointi 1 ja 2 -kurssit)
 
 Osa | Osaamistavoitteet
 --- | ---
-1 |	Tuntee ohjelmoinnin peruskäsitteistä muuttujat, ehtolauseet, toistolauseet. Ymmärtää ohjelman suoritusjärjestyksen. Tuntee loogiset operaatiot ``ja`` ja ``tai``. Osaa kirjoittaa ohjelmia, jotka lukevat käyttäjältä syötettä ja tekevät laskentaa syötteen perusteella.
-2 |	Ymmärtää vuokaavioiden idean ja osaa piirtää vuokaavioita annetusta ohjelmasta. Hahmottaa ja tunnistaa ohjelman käyttämien muuttujien tilan ohjelman eri suoritusvaiheessa. Osaa soveltaa toistolausetta ohjelmointiongelmissa. Tuntee käsitteet metodi, parametri ja kutsupino. Osaa luoda ja käyttää parametrillisia metodeja.
-3 |	Osaa luoda metodeja, jotka palauttavat arvon. Ymmärtää miten ohjelman suoritus etenee metodikutsun yhteydessä. Ymmärtää muuttujien näkyvyyden ja olemassaolon. Tuntee käsitteen merkkijono ja osaa käsitellä merkkijonoja (erit. vertailu). Tuntee listarakenteen ja osaa lisätä ja poistaa listalla olevia alkioita. Tuntee käsitteen indeksi ja osaa käydä listan läpi while-toistolauseen avulla.
-4 |	Tuntee käsitteet olio, konstruktori ja olion metodit. Luo ainakin yhden oman luokan. Luo olioita tekemistään luokista. Ymmärtää static-määreellä ja ilman static-määrettä olevien metodien eron. Tietää olio-ohjelmoinnin perusperiaatteet ja luo luokkia, jotka kuvaavat annettua ongelma-aluetta.
-5 |	Ymmärtää alkeis- ja viittaustyyppisten muuttujien erot. Osaa määritellä olioita, jotka sisältävät olioita. Osaa käyttää olioita metodin parametrina sekä luoda metodeja, jotka palauttavat olioita. Osaa käsitellä olioita listarakenteessa sekä käyttää listaa oliomuuttujana.
-6 |	Tuntee käsitteen tiedosto. Osaa lukea tietoa erilaisista tietolähteistä (mm. tiedosto, verkko). Ymmärtää hajautustaulun periatteen. Osaa kirjoittaa hajautustaulua käyttäviä ohjelmia ja osaa luoda satunnaislukuja Javan avulla. Tuntee staattisten ja ei staattisten metodien erot ja tutustuu sovelluksen jakamiseen useampaan vastuualueeseen (tekstikäyttöliittymä, sovelluslogiikka).
-7 |	Osaa pilkkoa ohjelman useampaan osaan, missä yhden vastuulla on (tekstimuotoinen) käyttöliittymä, toisen vastuulla sovelluslogiikka. Tuntee testivetoisen ohjelmistokehityksen perusajatuksen ja osaa kirjoittaa ohjelman metodien toiminnallisuutta tarkastelevia testejä. Ryhmittelee arvoja hajautustaulun avulla ja osaa käyttää listaa hajautustaulun arvona. Osaa luoda yksinkertaisia simulaatioita.
+1 |	Osaat kirjoittaa ohjelmia, jotka lukevat käyttäjältä syötettä ja tekevät laskentaa syötteen perusteella. Tunnet käsitteet muuttuja, ehtolause ja toistolause, ja osaat käyttää näitä ohjelmissasi.
+2 |	Tunnet muutamia osaongelmia sekä niihin liittyviä ratkaisumalleja. Tunnet loogiset operaatiot ``ja``, ``tai`` ja ``ei`` ja osaat käyttää niitä ehto- ja toistolauseissa. Tunnet käsitteet metodi, metodin parametri, metodin palautusarvo ja ohjelman kutsupino. Osaat luoda metodeja ja ymmärrät miten ohjelman suoritus etenee kun metodia kutsutaan ja toisaalta kun metodikutsusta palataan.
+3 |	Tiedät lähdekoodin kommentointitapoja ja ymmärrät miten muuttujien ja metodien nimentä vaikuttaa ohjelman ymmärrettävyyteen. Tunnet lista- ja taulukkorakenteen ja osaat käyttää niitä osana ohjelmia. Osaat käydä listan ja taulukon läpi while-toistolausetta ja indeksimuuttujaa käyttäen sekä for-each -toistolausetta käyttäen. Tunnet merkkijonoon liittyviä metodeja ja osaat pilkkoa merkkijonon pienempiin osiin. Harjoittelet ohjelmien testaamista syötteitä ja tulosteita vertailemalla.
+4 |	Tunnet käsitteet tiedosto ja tiedostojärjestelmä ja osaat lukea merkkijonomuotoista tietoa tiedostosta. Tiedät mitä olio-ohjelmointi tarkoittaa. Tunnet olio-ohjelmointiin liittyvät keskeiset käsitteet kuten luokka ja olio. Osaat luoda luokkia ja olioita sekä käyttää niitä osana toteuttamiasi ohjelmia.
+5 |	Tiedät mitä alkeis- ja viittaustyyppiset muuttujat ovat ja ymmärrät miten niiden toiminta eroaa toisistaan (muuttujan arvon asetus, metodin parametrina käyttö). Osaat luoda luokkaan useita konstruktoreja sekä useita samannimisiä metodeja. Osaat vertailla olioiden samankaltaisuutta sekä määritellä samankaltaisuuden vertailuun käytettävän metodin. Osaat määritellä luokkaan viittaustyyppisiä oliomuuttujia, käyttää olioita metodin paluuarvona, sekä käyttää listoja oliomuuttujina.
+6 |	Ymmärrät staattisten ja ei-staattisten metodien erot. Tunnet hajautustaulun ja osaat käsitellä hajautustaulussa olevaa tietoa. Osaat käyttää olioita hajautustaulun arvona ja tiedät miten oliot toimivat hajautustaulun avaimena. Osaat ryhmitellä tietoa hajautustaulun avulla ja osaat käyttää listaa hajautustaulun arvona. Osaat käyttää olioita sekä tiedon esittämiseen että ohjelman jakamiseen useampaan vastuualueeseen (tekstikäyttöliittymä, sovelluslogiikka).
+7 |	Osaat kertoa proseduraalisen ohjelmoinnin ja olio-ohjelmoinnin eroista ja toteuttaa ohjelmia kumpaakin ohjelmointiparadigmaa noudattaen. Tiedät mitä käsite algoritmi tarkoittaa ja osaat kuvailla muutamien järjestämis- ja hakualgoritmien toimintaa. Osaat kirjoittaa yksikkötestejä ja tiedät testivetoisen ohjelmistokehityksen perusaskeleet.
 
 #### OHJ02.1-kurssi (opinto-oppaassa Ohjelmointi 3, 4 ja 5 -kurssit)
 
 TAULUKKO TULEE LÄHEMPÄNÄ LOKAKUUTA (2. JAKSOA)
 
-Osaamistavoitteiden lähde: https://materiaalit.github.io/ohjelmointi-18/ (Creative Commons BY-NC-SA -lisenssi, Helsingin yliopiston Agile Education Research -tutkimusryhmä)
+Osaamistavoitteiden lähde: https://ohjelmointi-19.mooc.fi/osaamistavoitteet (Creative Commons BY-NC-SA 4.0 -lisenssi, Helsingin yliopiston Agile Education Research -tutkimusryhmä, ks. https://ohjelmointi-19.mooc.fi/credits/)
