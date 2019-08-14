@@ -17,7 +17,7 @@ Kurssin lähiopetus pidetään biologian **luokassa 235** perjantain tunteja luk
 
 *Muistutus*: olet itse vastuussa siitä, että luet oppimateriaalia. Kaikkea ei tarvitse ymmärtää kerralla, ja kysymyksiä saa aina esittää oppitunnilla ja/tai WhatsAppissa (Arttu vastaa niihin alla olevina opetusaikoina).
 
-### OHJ01.1:n aikataulu (1. jakso)
+### OHJ01.1-kurssin aikataulu (1. jakso)
 
 Pvm | Klo | Teema | Suoritettu 
 --- | --- | --- | ---
@@ -43,5 +43,5 @@ Viikot 39–40 <br> (ma 23.9. – ti 1.10.) | Koeviikko | Opiskele itsenäisest
 
 Jos löydät virheitä aikataulusta tai mistä tahansa (materiaalit, opetus, jne.), ilmoita asiasta rohkeasti Artulle! En suutu tietenkään :)
 
-### OHJ02.1:n aikataulu (2. jakso)
+### OHJ02.1-kurssin aikataulu (2. jakso)
 AIKATAULU TULEE LÄHEMPÄNÄ LOKAKUUTA
