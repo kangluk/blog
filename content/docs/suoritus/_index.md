@@ -13,7 +13,8 @@ bookToc: true
 - Jokaisen osan tehtävistä on laadittava **vähintään 25 %** kurssin hyväksymiseksi
 	- Seuraavan osan tehtäviin pääsee käsiksi, kun on tehnyt vähintään 25% edellisen osan tehtävistä (tästä TMC-järjestelmä pitää huolen)
 - Aikaa kannattaa varata tehtävien tekemiseen!
-	- Ensimmäisten osien kohdalla tehtävät tulee luultavasti tehtyä rivakasti (opiskelijasta riippuen mahdollisesti muutamassa tunnissa), mutta lähestyttäessä viikkoa 7 aikaa voi hyvinkin mennä jopa 20 tuntia per osa!
+	- Ensimmäisten osien kohdalla tehtävät tulee luultavasti tehtyä rivakasti (opiskelijasta riippuen mahdollisesti muutamassa tunnissa), mutta lähestyttäessä viikkoa 7 aikaa voi hyvinkin mennä jopa 20 tuntia per osa
+	- Yritä parhaasi, kaikkea ei tarvitse osata heti samantien! Opettaja on etenkin hankalia tilanteita varten auttamassa
 
 ## Kurssin käytänteet
 
