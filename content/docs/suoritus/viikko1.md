@@ -4,7 +4,7 @@ type: docs
 draft: false
 ---
 
-# Viikko 1
+# Viikko 1 (13.–18.8.2019)
 
 - [Ensimmäisen viikon teoria ja tehtävät](https://materiaalit.github.io/ohjelmointi-18/part1/)
 

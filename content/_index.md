@@ -9,17 +9,19 @@ Mukavaa, että päätit avata oven ohjelmoinnin ihmeelliseen maailmaan! [Java-oh
 
 *"Ohjelmointi on yhä merkittävämmässä roolissa nyky-yhteiskunnassa ja yhä harvempi työpaikka on kokonaan irrallaan digitaalisesta maailmasta. Sitä ovat nämäkin nettisivut, älypuhelimet, digitaaliset karttapalvelut ja reittioppaat."* ([Aalto PRO](https://www.aaltopro.fi/aalto-leaders-insight/2018/miksi-ohjelmointia-pitaa-opetella-ja-miksi-kannattaa-aloittaa-juuri-pythonista))
 
+Sivuston ylläpidosta vastaa ohjelmoinnin opettaja Arttu Ylhävuori. Kurssimateriaalina on pääasiallisesti käytetty Helsingin yliopiston Ohjelmoinnin MOOC-materiaalia.
+
 ## Paikka ja aika
 
 Kurssin lähiopetus pidetään biologian **luokassa 235** perjantain tunteja lukuunottamatta. **Perjantaisin** on luvassa verkossa pidettävät **etätunnit** (Artun live-lähetykset Helsingistä). Linkki lähetykseen ilmoitetaan myöhemmin WhatsApp-ryhmässä.
 
-*Muistutus*: olet itse vastuussa siitä, että luet oppituntien ulkopuolella käsittelyssä olevaa osaa ennen seuraavaa oppituntia.
+*Muistutus*: olet itse vastuussa siitä, että luet oppimateriaalia. Kaikkea ei tarvitse ymmärtää kerralla, ja kysymyksiä saa aina esittää oppitunnilla ja/tai WhatsAppissa (Arttu vastaa niihin alla olevina opetusaikoina).
 
 ### OHJ01.1:n aikataulu (1. jakso)
 
-Pvm | Klo | Teema
---- | --- | ---
-~~ti 13.8.~~ | ~~9.45-11.00~~ | ~~**Osa 1** Aloitus ja asennus.~~
+Pvm | Klo | Teema | Suoritettu 
+--- | --- | --- | ---
+ti 13.8. | 9.45-11.00 | **Osa 1** Aloitus ja asennus. | ✅
 ke 14.8. | 12.00-13.15 | **Osa 1** Aloitus ja asennus. Nopeimmat voivat tehdä omaan tahtiin tehtäviä.
 pe 16.8. | 13.30-14.45 | Etätunti, osa 1
 ti 20.8. | 9.45-11.00 | **Osa 2**
