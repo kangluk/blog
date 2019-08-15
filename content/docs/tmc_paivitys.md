@@ -5,8 +5,6 @@ bookToc: true
 
 # Miten vaihtaa uusimpaan kurssiin?
 
-14.8.2019: MALLIKUVAT TULOSSA MYÖHEMMIN
-
 ## 1. Sulje kaikki vanhan kurssin projektit
 
 Näin pyritään välttämään tilannetta, jossa NetBeans kaatuu/hidastuu 70:n projektin ollessa samaan aikaan auki.
