@@ -20,7 +20,9 @@ Näin pyritään välttämään tilannetta, jossa NetBeans kaatuu/hidastuu 70:n 
 
 <---> <!-- magic sparator, between columns -->
 
-![Projektien pienennys](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva3.png "Logo Title Text 1")
+![Projektien pienennys](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva3.png "1. Projektien pienennys")
+
+![Projektien sulkeminen](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva4.png "2. Projektien sulkeminen")
 
 {{< /columns >}}
 
