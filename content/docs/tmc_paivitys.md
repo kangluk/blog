@@ -15,14 +15,18 @@ Näin pyritään välttämään tilannetta, jossa NetBeans kaatuu/hidastuu 70:n 
 
 1. Pienennä projektien "tiedostopuut" (Macissa kolmio-nappi (ks. kuva), Windowsissa plus-miinus -nappi)
 2. Valitse kaikki projektit
-	- Ctrl A -pikanäppäin tai klikkaa Shift/Vaihto-näppäin pohjassa ensimmäistä ja viimeistä projektia
+	- <kbd>Ctrl</kbd> <kbd>A</kbd> -pikanäppäin tai klikkaa Shift/Vaihto-näppäin pohjassa ensimmäistä ja viimeistä projektia
 3. Klikkaa hiiren oikealla napilla ensimmäistä projektia ja valitse *Close 31 Projects*
 
 <---> <!-- magic sparator, between columns -->
 
 ![Projektien pienennys](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva3.png "1. Projektien pienennys")
 
+_Kuva 1: projektien pienentäminen tapahtuu projektikansion viereisestä napista._
+
 ![Projektien sulkeminen](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva4.png "2. Projektien sulkeminen")
+
+_Kuva 2: kun kaikki projektit on valittu (ks. teksti yllä), suljetaan ne klikkaamalla ensimmäistä projektia hiiren oikealla painikkeella ja valitsemalla "Close 31 Projects"._
 
 {{< /columns >}}
 
@@ -31,6 +35,10 @@ Näin pyritään välttämään tilannetta, jossa NetBeans kaatuu/hidastuu 70:n 
 ## 2. Siirry asetuksiin
 
 Asetukset löytyvät NetBeansin ohjelmavalikosta TMC → *Settings* (ks. kuva)
+
+![Asetuksiin siirtyminen](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva5.png "3. Asetuksiin siirtyminen")
+
+_Kuva 3. Asetukset/Settings löytyy ohjelmavalikon TMC-kohdasta._
 
 ## 3. Valitse uusi kurssi
 
