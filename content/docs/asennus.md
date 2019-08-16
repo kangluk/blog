@@ -107,8 +107,6 @@ TMC (*TestMyCode – Programming assignment evaluator*) -palvelin löytyy osoitt
 
 ## 4. Avaa NetBeans ja kirjaudu sisään ohjelmointiympäristöön
 
-14.8.2019: MALLIKUVAT TULOSSA MYÖHEMMIN
-
 1. Käynnistä asentamasi NetBeans-ohjelmointiympäristö
 2. Kun ohjelmointiympäristö käynnistyy, se kysyy sinulta sähköpostiosoitetta ja salasanaasi
 3. Aseta sähköpostiosoitteeksi ja salasanaksi edellisessä kohdassa luomasi TMC-tunnukset
