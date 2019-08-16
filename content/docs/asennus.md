@@ -114,13 +114,36 @@ TMC (*TestMyCode – Programming assignment evaluator*) -palvelin löytyy osoitt
 3. Aseta sähköpostiosoitteeksi ja salasanaksi edellisessä kohdassa luomasi TMC-tunnukset
 4. Tämän jälkeen NetBeans kysyy organisaatiota ja kurssia, jossa teet tehtäviä
 	- Valitse organisaatioksi **"Kangasalan lukio"**
-	- Valitse kurssiksi **"UUSIN syksyn 2019 ohjelmointikurssi"**
+
+![Organisaation valinta](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva10.png "1. Organisaation valinta")
+
+_Kuva 1: Organisaation valintaikkunassa valitaan "Kangasalan lukio"._
+
+- Valitse kurssiksi **"UUSIN syksyn 2019 ohjelmointikurssi"**
+
+![Kurssin valinta](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva2.png "2. Kurssin valinta")
+
+_Kuva 2: Kurssin valintaikkunassa valitaan "UUSIN syksyn 2019 ohjelmointikurssi"._
+
 5. Sulje asetukset OK-napista
+
+![Asetusten sulkeminen](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva8.png "3. Asetusten sulkeminen")
+
+_Kuva 3: Suljetaan asetukset painamalla OK-nappia._
+
 6. Näkyviin tulee *Download exercises* -ikkuna
 	- Katso, että kaikki tehtävät on valittuna ja klikkaa *Download*-nappia
+
+![Tehtävien lataaminen](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva9.png "4. Tehtävien lataaminen")
+
+_Kuva 4: Tehtävien lataus käynnistyy klikkaamalla  "Download"-nappia._
+
 7. Tehtävät latautuvat oletuksena tietokoneen *NetBeansProjects* -kansioon ja tulevat tarjolle NetBeansin vasempaan reunaan *Projects*-välilehdelle
 	- Jos välilehteä ei näy, avaa se NetBeansin ohjelmavalikosta *Window* → *Projects*
 
+![Projektit-näkymän avaamimen](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva11.png "5. Projektit-näkymän avaamimen")
+
+_Kuva 5: Projektit-näkymän saa tarvittaessa avattua "Window"-valikosta._
 
 # Onko koneessani jo ennestään oikea Java-versio?
 
