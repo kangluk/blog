@@ -9,24 +9,25 @@ bookToc: true
 
 Näin pyritään välttämään tilannetta, jossa NetBeans kaatuu/hidastuu 70:n projektin ollessa samaan aikaan auki.
 
-{{< columns >}} <!-- begin columns block -->
-
 1. Pienennä projektien "tiedostopuut" (Macissa kolmio-nappi (ks. kuva), Windowsissa plus-miinus -nappi)
-2. Valitse kaikki projektit
-	- <kbd>Ctrl</kbd> <kbd>A</kbd> -pikanäppäin tai klikkaa Shift/Vaihto-näppäin pohjassa ensimmäistä ja viimeistä projektia
-3. Klikkaa hiiren oikealla napilla ensimmäistä projektia ja valitse *Close 31 Projects*
-
-<---> <!-- magic sparator, between columns -->
 
 ![Projektien pienennys](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva3.png "1. Projektien pienennys")
 
 _Kuva 1: projektien pienentäminen tapahtuu projektikansion viereisestä napista._
 
+2. Valitse kaikki projektit
+	- <kbd>Ctrl</kbd> <kbd>A</kbd> -pikanäppäin tai klikkaa <kbd>Shift</kbd>-näppäin pohjassa ensimmäistä ja viimeistä projektia
+3. Klikkaa hiiren oikealla napilla ensimmäistä projektia ja valitse *Close 31 Projects*
+
+
+
+
+
 ![Projektien sulkeminen](https://raw.githubusercontent.com/kangluk/blog/master/images/kuva4.png "2. Projektien sulkeminen")
 
 _Kuva 2: kun kaikki projektit on valittu (ks. teksti yllä), suljetaan ne klikkaamalla ensimmäistä projektia hiiren oikealla painikkeella ja valitsemalla "Close 31 Projects"._
 
-{{< /columns >}}
+
 
 
 
