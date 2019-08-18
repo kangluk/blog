@@ -17,7 +17,7 @@ draft: false
 
 ## Artun tukidiat viikolle 1
 
-Voit halutessasi ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
+Voit halutessasi lukea, ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Dioihin on pyritty koostamaan oleellisimmat opittavat asiat kyseiseltä viikolta. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
 
 {{< button href="https://drive.google.com/file/d/1JL98cRvrC_z9Op2wRRLXlR-HKcnbVd1Z/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
 

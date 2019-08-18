@@ -1,7 +1,7 @@
 ---
 title: "Viikko 2"
 type: docs
-draft: true
+draft: false
 ---
 
 # Viikko 2 (19.–25.8.2019)
@@ -16,9 +16,9 @@ draft: true
 
 ## Artun tukidiat viikolle 2
 
-Voit halutessasi ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
+Voit halutessasi lukea, ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Dioihin on pyritty koostamaan oleellisimmat opittavat asiat kyseiseltä viikolta. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
 
-{{< button href="#" target="_blank" >}}Siirry dioihin{{< /button >}}
+{{< button href="https://drive.google.com/file/d/1eQowxh7_KIgaQzKIy_f8nRCdrbaRjc_K/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
 
 
 ---
