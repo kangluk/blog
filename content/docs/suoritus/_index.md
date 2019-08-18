@@ -70,4 +70,6 @@ Osa | Osaamistavoitteet
 
 TAULUKKO TULEE LÄHEMPÄNÄ LOKAKUUTA (2. JAKSOA)
 
-Osaamistavoitteiden lähde: https://ohjelmointi-19.mooc.fi/osaamistavoitteet (Creative Commons BY-NC-SA 4.0 -lisenssi, Helsingin yliopiston Agile Education Research -tutkimusryhmä, ks. https://ohjelmointi-19.mooc.fi/credits/)
+---
+
+<span style="color:grey">Osaamistavoitteiden lähde: ``https://ohjelmointi-19.mooc.fi/osaamistavoitteet`` (Creative Commons BY-NC-SA 4.0 -lisenssi, Helsingin yliopiston Agile Education Research -tutkimusryhmä, ks. ``https://ohjelmointi-19.mooc.fi/credits``)</span>
