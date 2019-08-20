@@ -16,7 +16,7 @@ draft: false
 
 ## Vinkkilista
 
-- Tehtävä 2.1 "Toiseen potenssiin":
+- Saat korotettua luvun toiseen potenssiin komennolla ``Math.pow`` seuraavasti (tehtävä 2.1):
 
 ~~~java
 int luku = 2;
