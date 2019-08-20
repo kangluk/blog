@@ -2,3 +2,6 @@ baseURL = "https://kangluk.github.io/"
 languageCode = "fi"
 title = "Kangasalan Java-kurssi, syksy 2019"
 theme = "book"
+# Code highlight
+pygmentsStyle = 'monokailight'
+pygmentsCodeFences = true
