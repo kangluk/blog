@@ -24,8 +24,8 @@ Pvm | Klo | Teema | Suoritettu
 ti 13.8. | 9.45-11.00 | **Osa 1** Aloitus ja asennus. | ✅
 ke 14.8. | 12.00-13.15 | **Osa 1** Aloitus ja asennus. Nopeimmat voivat tehdä omaan tahtiin tehtäviä. | ✅
 pe 16.8. | 13.30-14.45 | Etätunti, osa 1 | ✅
-ti 20.8. | 9.45-11.00 | **Osa 2**
-ke 21.8. | 12.00-13.15 | Osa 2
+ti 20.8. | 9.45-11.00 | Osa 1 (nopeimmat voivat jo siirtyä osaan 2)
+ke 21.8. | 12.00-13.15 | **Osa 2**
 pe 23.8. | <span style="color:red">**15.00-16.15 <br> HUOMAA ERI KELLONAIKA!**</span> | Etätunti, osa 2
 ti 27.8. | 9.45-11.00 | **Osa 3**
 ke 28.8. | 12.00-13.15 | Osa 3
