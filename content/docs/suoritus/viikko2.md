@@ -14,6 +14,16 @@ draft: false
 
 *Tunnet muutamia osaongelmia sekä niihin liittyviä ratkaisumalleja. Tunnet loogiset operaatiot ``ja``, ``tai`` ja ``ei`` ja osaat käyttää niitä ehto- ja toistolauseissa. Tunnet käsitteet metodi, metodin parametri, metodin palautusarvo ja ohjelman kutsupino. Osaat luoda metodeja ja ymmärrät miten ohjelman suoritus etenee kun metodia kutsutaan ja toisaalta kun metodikutsusta palataan.*
 
+## Vinkkilista
+
+- Tehtävä 2.1 "Toiseen potenssiin":
+
+~~~java
+int luku = 2;
+int tulos = (int) Math.pow(luku, 2); // luvun korotus toiseen potenssiin ja tallennus tulos-kokonaislukumuuttujaan
+
+~~~
+
 ## Artun tukidiat viikolle 2
 
 Voit halutessasi lukea, ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Dioihin on pyritty koostamaan oleellisimmat opittavat asiat kyseiseltä viikolta. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
