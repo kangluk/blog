@@ -20,8 +20,14 @@ draft: false
 
 ~~~java
 int luku = 2;
-int tulos = (int) Math.pow(luku, 2); // luvun korotus toiseen potenssiin ja tallennus tulos-kokonaislukumuuttujaan
+int tulos = (int) Math.pow(luku, 2);
+~~~
 
+- Saat laskettua jostakin luvusta neliöjuuren komennolla `Math.sqrt` seuraavasti (tehtävä 2.2):
+
+~~~java
+int luku = 42;
+double neliojuuri = Math.sqrt(luku);
 ~~~
 
 ## Artun tukidiat viikolle 2
