@@ -1,7 +1,7 @@
 ---
 title: "Pikanäppäimiä"
 type: docs
-bookToc: false
+bookToc: true
 draft: false
 ---
 
