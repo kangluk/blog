@@ -19,27 +19,29 @@ Kurssin lähiopetus pidetään biologian **luokassa 235** perjantain tunteja luk
 
 ### OHJ01.1-kurssin aikataulu (1. jakso)
 
+Aikataulu tarkentuu koko ajan kurssin edetessä kurssilaisten etenemisen mukaan.
+
 Pvm | Klo | Teema | Suoritettu 
 --- | --- | --- | ---
-ti 13.8. | 9.45-11.00 | **Osa 1** Aloitus ja asennus. | ✅
+ti 13.8. | 9.45-11.00 | Osa 1 Aloitus ja asennus. | ✅
 ke 14.8. | 12.00-13.15 | **Osa 1** Aloitus ja asennus. Nopeimmat voivat tehdä omaan tahtiin tehtäviä. | ✅
 pe 16.8. | 13.30-14.45 | Etätunti, osa 1 | ✅
 ti 20.8. | 9.45-11.00 | Osa 1 (nopeimmat voivat jo siirtyä osaan 2) | ✅
 ke 21.8. | 12.00-13.15 | **Osa 2**
 pe 23.8. | <span style="color:red">**15.00-16.15 <br> HUOMAA ERI KELLONAIKA!**</span> | Etätunti, osa 2
-ti 27.8. | 9.45-11.00 | **Osa 3**
-ke 28.8. | 12.00-13.15 | Osa 3
+ti 27.8. | 9.45-11.00 | Osa 2 / 3?
+ke 28.8. | 12.00-13.15 | **Osa 3**
 pe 30.8. | 13.30-14.45 | Etätunti, osa 3
-ti 3.9. | 9.45-11.00 | **Osa 4**
-ke 4.9. | 12.00-13.15 | Osa 4
+ti 3.9. | 9.45-11.00 | Osa 3 / 4?
+ke 4.9. | 12.00-13.15 | **Osa 4**
 pe 6.9. | 13.30-14.45 | Etätunti, osa 4
-ti 10.9. | 9.45-11.00 | **Osa 5**
-ke 11.9. | 12.00-13.15 | Osa 5
+ti 10.9. | 9.45-11.00 | Osa 4 / 5?
+ke 11.9. | 12.00-13.15 | **Osa 5**
 pe 13.9. | 13.30-14.45 | Etätunti, osa 5
-ti 17.9. | 9.45-11.00 | **Osa 6**
-ke 18.9. | 12.00-13.15 | Osa 6
+ti 17.9. | 9.45-11.00 | Osa 5 / 6?
+ke 18.9. | 12.00-13.15 | **Osa 6**
 pe 20.9. | 13.30-14.45 | Etätunti, osa 6
-Viikot 39–40 <br> (ma 23.9. – ti 1.10.) | Koeviikko | Opiskele itsenäisesti osa 7 ja tee tehtäviä väh. 25%? Sovitaan tämä tarkemmin.
+Viikot 39–40 <br> (ma 23.9. – ti 1.10.) | Koeviikko | **TARKENTUU LÄHEMPÄNÄ KOEVIIKKOA**<br>Alustavasti: etätunteja ti, ke ja pe ja tee tehtäviä osista 6-7, molemmista väh. 25%. Sovitaan tämä tarkemmin viim. edellisellä viikolla teidän toiveidenne mukaan.
 
 Jos löydät virheitä aikataulusta tai mistä tahansa (materiaalit, opetus, jne.), ilmoita asiasta rohkeasti Artulle! En suutu tietenkään :)
 
