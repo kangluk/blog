@@ -5,45 +5,42 @@ bookToc: false
 ---
 
 # Welcome to the programming course!
-Mukavaa, että päätit avata oven ohjelmoinnin ihmeelliseen maailmaan! [Java-ohjelmointikielen](https://fi.wikipedia.org/wiki/Java) opiskelu on hyvä tapa perehtyä ohjelmoinnin käytänteisiin. Jo sen perusteet hallitsemalla on helppoa jatkaa muihin kieliin, kuten [Pythoniin](https://fi.wikipedia.org/wiki/Python_(ohjelmointikieli)), [JavaScriptiin](https://fi.wikipedia.org/wiki/JavaScript) ja [C#:iin (C Sharp)](https://fi.wikipedia.org/wiki/C_sharp). 
+Glad you decided to open the door to a wonderful world of programming! Studying a [Java programming language](https://en.wikipedia.org/wiki/Java_(programming_language)) is a great way to become familiar with programming practices. By mastering its basics, it's easy to continue to other languages like [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), and [C# (C Sharp)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)).
 
-*"Ohjelmointi on yhä merkittävämmässä roolissa nyky-yhteiskunnassa ja yhä harvempi työpaikka on kokonaan irrallaan digitaalisesta maailmasta. Sitä ovat nämäkin nettisivut, älypuhelimet, digitaaliset karttapalvelut ja reittioppaat."* ([Aalto PRO](https://www.aaltopro.fi/aalto-leaders-insight/2018/miksi-ohjelmointia-pitaa-opetella-ja-miksi-kannattaa-aloittaa-juuri-pythonista))
+*"Programming is playing an increasingly important role in today's society and fewer and fewer jobs are completely isolated from the digital world. This is also the case with these websites, smartphones, digital map services and route guides."* (source: [Aalto PRO](https://www.aaltopro.fi/aalto-leaders-insight/2018/miksi-ohjelmointia-pitaa-opetella-ja-miksi-kannattaa-aloittaa-juuri-pythonista), the original in Finnish)
 
-Sivuston ylläpidosta vastaa ohjelmoinnin opettaja [Arttu Ylhävuori](https://twitter.com/arttuylh). Kurssimateriaalina on pääasiallisesti käytetty Helsingin yliopiston [Ohjelmoinnin MOOC 2019](https://ohjelmointi-19.mooc.fi/) -materiaalia.
+The site is maintained by programming teacher [Arttu Ylhävuori](https://twitter.com/arttuylh). The course material (in English) is mainly [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/) by the University of Helsinki.
 
-## Paikka ja aika
+## Place and time
 
-Kurssin lähiopetus pidetään biologian **luokassa 235** perjantain tunteja lukuunottamatta. **Perjantaisin** on luvassa verkossa pidettävät **etätunnit** (Artun live-lähetykset Helsingistä). Linkki lähetykseen ilmoitetaan myöhemmin WhatsApp-ryhmässä.
+The contact hours of the course will be in the biology **class 235** except Friday lessons. **On Friday**, there will be online remote lessons (Arttu's live broadcasts from Helsinki). The link to the live broadcast will be announced later in the WhatsApp group.
 
-*Muistutus*: olet itse vastuussa siitä, että luet oppimateriaalia. Kaikkea ei tarvitse ymmärtää kerralla, ja kysymyksiä saa aina esittää oppitunnilla ja/tai WhatsAppissa (Arttu vastaa niihin alla olevina opetusaikoina).
+*Reminder*: You are responsible for reading the study material. You don't have to understand everything at once, and you can always ask questions in the lesson and / or on WhatsApp (Arttu answers them during the lessons below).
 
-### OHJ01.1-kurssin aikataulu (1. jakso)
+### Course Schedule for the course "OHJ01.1" (1st period)
 
-Aikataulu tarkentuu koko ajan kurssin edetessä kurssilaisten etenemisen mukaan.
+As the course progresses, the timetable becomes more and more specific as students progress.
 
-Pvm | Klo | Teema | Suoritettu 
+Date | Time | Theme | Success 
 --- | --- | --- | ---
-ti 13.8. | 9.45-11.00 | Osa 1 Aloitus ja asennus. | ✅
-ke 14.8. | 12.00-13.15 | **Osa 1** Aloitus ja asennus. Nopeimmat voivat tehdä omaan tahtiin tehtäviä. | ✅
-pe 16.8. | 13.30-14.45 | Etätunti, osa 1 | ✅
-ti 20.8. | 9.45-11.00 | Osa 1 (nopeimmat voivat jo siirtyä osaan 2) | ✅
-ke 21.8. | 12.00-13.15 | **Osa 2**
-pe 23.8. | <span style="color:red">**15.00-16.15 <br> HUOMAA ERI KELLONAIKA!**</span> | Etätunti, osa 2
-ti 27.8. | 9.45-11.00 | Osa 2 / 3?
-ke 28.8. | 12.00-13.15 | **Osa 3**
-pe 30.8. | 13.30-14.45 | Etätunti, osa 3
-ti 3.9. | 9.45-11.00 | Osa 3 / 4?
-ke 4.9. | 12.00-13.15 | **Osa 4**
-pe 6.9. | 13.30-14.45 | Etätunti, osa 4
-ti 10.9. | 9.45-11.00 | Osa 4 / 5?
-ke 11.9. | 12.00-13.15 | **Osa 5**
-pe 13.9. | 13.30-14.45 | Etätunti, osa 5
-ti 17.9. | 9.45-11.00 | Osa 5 / 6?
-ke 18.9. | 12.00-13.15 | **Osa 6**
-pe 20.9. | 13.30-14.45 | Etätunti, osa 6
-Viikot 39–40 <br> (ma 23.9. – ti 1.10.) | Koeviikko | **TARKENTUU LÄHEMPÄNÄ KOEVIIKKOA**<br>Alustavasti: etätunteja ti, ke ja pe ja tee tehtäviä osista 6-7, molemmista väh. 25%. Sovitaan tämä tarkemmin viim. edellisellä viikolla teidän toiveidenne mukaan.
+Tue Aug 13 | 9:45 AM – 11:00 AM | Part 1 Getting Started and Installation. | ✅
+Wed Aug 14 | 12:00 PM – 1:15 PM | **Part 1** Getting Started and Installation. The fastest students can do things at their own pace. | ✅
+Fri Aug 16 | 1:30 PM – 2:45 PM | Remote lesson, part 1 | ✅
+Tue Aug 20 | 9:45 AM – 11:00 AM | Part 1 (the fastest students can already move on to part 2) | ✅
+Wed Aug 21 | 12:00 PM – 1:15 PM | **Part 2** | ✅
+Fri Aug 23 | <span style="color:red">**3:00 PM – 4:15 PM <br>NOTE DIFFERENT TIME!**</span> | Remote lesson, part 2
+Tue Aug 27 | 9:45 AM – 11:00 AM | Part 2 / 3?
+Wed Aug 28 | 12:00 PM – 1:15 PM | **Part 3**
+Fri Aug 30 | 1:30 PM – 2:45 PM | Remote lesson, part 3
+Tue Sep 3 | 9:45 AM – 11:00 AM | Part 3 / 4?
+Wed Sep 4 | 12:00 PM – 1:15 PM | **Part 4**
+Fri Sep 6 | 1:30 PM – 2:45 PM | Remote lesson, part 4
+Tue Sep 10 | 9:45 AM – 11:00 AM | Part 4 / 5?
+Wed Sep 11 | 12:00 PM – 1:15 PM | **Part 5**
+Fri Sep 13 | 1:30 PM – 2:45 PM | Remote lesson, part 5
+Tue Sep 17 | 9:45 AM – 11:00 AM | Part 5 / 6?
+Wed Sep 18 | 12:00 PM – 1:15 PM | **Part 6**
+Fri Sep 20 | 1:30 PM – 2:45 PM | Remote lesson, part 6
+Weeks 39–40 <br> (Mon 23.9. – Tue 1.10.) | Exam week | **MORE DETAILS COMING BEFORE THE EXAM WEEK**<br>Preliminary: remote lessons on Tue, Wed and Fri and do assignments for sections 6-7, both min. 25%. This will be agreed upon in the last week at your request.
 
-Jos löydät virheitä aikataulusta tai mistä tahansa (materiaalit, opetus, jne.), ilmoita asiasta rohkeasti Artulle! En suutu tietenkään :)
-
-### OHJ02.1-kurssin aikataulu (2. jakso)
-AIKATAULU TULEE LÄHEMPÄNÄ LOKAKUUTA
+If you find any errors in the schedule or anywhere (materials, lessons, etc.), feel free to report it to Arttu!
