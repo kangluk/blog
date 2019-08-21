@@ -1,7 +1,21 @@
 baseURL = "https://kangluk.github.io/"
 languageCode = "fi"
-title = "Kangasalan Java-kurssi, syksy 2019"
+# title = "Kangasalan Java-kurssi, syksy 2019"
 theme = "book"
+
 # Code highlight
 pygmentsStyle = 'monokailight'
 pygmentsCodeFences = true
+
+defaultContentLanguage = "fi"
+copyright = "Arttu Ylhävuori"
+
+[languages]
+  [languages.fi]
+    title = "Kangasalan Java-kurssi, syksy 2019"
+    languageName = "suomi"
+    weight = 1
+  [languages.en]
+    title = "Java programming course in Kangasala, autumn 2019"
+    languageName = "English"
+    weight = 2
