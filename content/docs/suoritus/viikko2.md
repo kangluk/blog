@@ -16,19 +16,23 @@ draft: false
 
 ## Vinkkilista
 
-- Saat korotettua luvun toiseen potenssiin komennolla ``Math.pow`` seuraavasti (tehtävä 2.1):
+- Tehtävä 2.1: saat korotettua luvun toiseen potenssiin komennolla ``Math.pow`` seuraavasti:
 
 ```java
 int luku = 2;
 int tulos = (int) Math.pow(luku, 2);
 ```
 
-- Saat laskettua jostakin luvusta neliöjuuren komennolla `Math.sqrt` seuraavasti (tehtävä 2.2):
+- Tehtävä 2.2: saat laskettua jostakin luvusta neliöjuuren komennolla `Math.sqrt` seuraavasti:
 
 ```java
 int luku = 42;
 double neliojuuri = Math.sqrt(luku);
 ```
+
+- Tehtävä 2.6: katso vinkki lyhenteen käytöstä *Pikanäppäimiä ja lyhenteitä* -wikisivun kohdasta [*Laskuri, jota kasvatetaan yhdellä*](/docs/pikanappaimia/#laskuri-jota-kasvatetaan-yhdell%C3%A4)
+
+- Tehtävä 2.7: katso vinkki lyhenteen käytöstä *Pikanäppäimiä ja lyhenteitä* -wikisivun kohdasta [*Luku, jota kasvatetaan toisella luvulla*](/docs/pikanappaimia/#luku-jota-kasvatetaan-toisella-luvulla)
 
 ## Artun tukidiat viikolle 2
 
