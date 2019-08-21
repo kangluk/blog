@@ -1,11 +1,11 @@
 ---
-title: "Pikanäppäimiä"
+title: "Pikanäppäimiä ja lyhenteitä"
 type: docs
 bookToc: true
 draft: false
 ---
 
-# NetBeansin pikanäppäimiä
+# NetBeansin pikanäppäimiä ja lyhenteitä
 
 ## Yleiset pikanäppäimet
 
@@ -16,7 +16,7 @@ Siirry jollekin koodiriville ja paina samaan aikaan [*Alt*](https://fi.wikipedia
 Paina samaan aikaan *Alt*, *Shift* (⇧) ja *F* | Siistii koodin: asettelee sisennykset ja välilyönnit kuntoon (engl. *format selection*)
 Paina samaan aikaan [*Ctrl*](https://en.wikipedia.org/wiki/Control_key) ja välilyönti | Aukeaa ikkuna, joka tarjoaa juuri siihen hetkeen sopivia komentoja. Tätä voi käyttää myös **hakuna**: kirjoita osa koodista ja paina tätä pikanäppäinyhdistelmää: näin ei tarvitse kirjoittaa kaikkea koodia.
 
-## Laskemiseen liittyviä pikakomentoja
+## Laskemiseen liittyviä lyhenteitä
 
 ### Laskuri, jota kasvatetaan yhdellä
 
