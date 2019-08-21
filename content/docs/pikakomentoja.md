@@ -16,6 +16,45 @@ Siirry jollekin koodiriville ja paina samaan aikaan [*Alt*](https://fi.wikipedia
 Paina samaan aikaan *Alt*, *Shift* (⇧) ja *F* | Siistii koodin: asettelee sisennykset ja välilyönnit kuntoon (engl. *format selection*)
 Paina samaan aikaan [*Ctrl*](https://en.wikipedia.org/wiki/Control_key) ja välilyönti | Aukeaa ikkuna, joka tarjoaa juuri siihen hetkeen sopivia komentoja. Tätä voi käyttää myös **hakuna**: kirjoita osa koodista ja paina tätä pikanäppäinyhdistelmää: näin ei tarvitse kirjoittaa kaikkea koodia.
 
+## Laskemiseen liittyviä pikakomentoja
+
+### Laskuri, jota kasvatetaan yhdellä
+
+Vasemmalla puolella on pikakomento, oikealla puolella (mobiilissa alapuolella) sama pitemmin kirjoitettuna:
+
+{{< columns >}} <!-- begin columns block -->
+
+```java
+int laskuri = 0;
+laskuri++;
+``` 
+<---> <!-- magic sparator, between columns -->
+
+```java
+int laskuri = 0;
+laskuri = laskuri + 1;
+``` 
+
+{{< /columns >}}
+
+### Laskuri, jota pinenennetään yhdellä
+
+Vasemmalla puolella on pikakomento, oikealla puolella (mobiilissa alapuolella) sama pitemmin kirjoitettuna:
+
+{{< columns >}} <!-- begin columns block -->
+
+```java
+int laskuri = 0;
+laskuri--;
+``` 
+<---> <!-- magic sparator, between columns -->
+
+```java
+int laskuri = 0;
+laskuri = laskuri - 1;
+``` 
+
+{{< /columns >}}
 
 ---
 Tämä sivu täydentyy kurssin edetessä. Kertokaa, jos jokin pikanäppäin ei toimi (Macissa näppäimet eivät kaikilta osin täsmää Windowsin kanssa).
