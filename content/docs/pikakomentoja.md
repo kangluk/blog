@@ -20,15 +20,17 @@ Paina samaan aikaan [*Ctrl*](https://en.wikipedia.org/wiki/Control_key) ja väli
 
 ### Laskuri, jota kasvatetaan yhdellä
 
-Vasemmalla puolella on pikakomento, oikealla puolella (mobiilissa alapuolella) sama pitemmin kirjoitettuna:
-
 {{< columns >}} <!-- begin columns block -->
+
+**Lyhyempi esitystapa:**
 
 ```java
 int laskuri = 0;
 laskuri++;
 ``` 
 <---> <!-- magic sparator, between columns -->
+
+**Pitempi esitystapa:**
 
 ```java
 int laskuri = 0;
@@ -39,15 +41,17 @@ laskuri = laskuri + 1;
 
 ### Laskuri, jota pinenennetään yhdellä
 
-Vasemmalla puolella on pikakomento, oikealla puolella (mobiilissa alapuolella) sama pitemmin kirjoitettuna:
-
 {{< columns >}} <!-- begin columns block -->
+
+**Lyhyempi esitystapa:**
 
 ```java
 int laskuri = 0;
 laskuri--;
 ``` 
 <---> <!-- magic sparator, between columns -->
+
+**Pitempi esitystapa:**
 
 ```java
 int laskuri = 0;
