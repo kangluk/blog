@@ -60,6 +60,29 @@ laskuri = laskuri - 1;
 
 {{< /columns >}}
 
+### Luku, jota kasvatetaan toisella luvulla
+
+{{< columns >}} <!-- begin columns block -->
+
+**Lyhyempi esitystapa:**
+
+```java
+int luku1 = 0;
+int luku2 = 5;
+luku1 += luku2;
+```
+<---> <!-- magic sparator, between columns -->
+
+**Pitempi esitystapa:**
+
+```java
+int luku1 = 0;
+int luku2 = 5;
+luku1 = luku1 + luku2;
+```
+
+{{< /columns >}}
+
 ---
 Tämä sivu täydentyy kurssin edetessä. Kertokaa, jos jokin pikanäppäin ei toimi (Macissa näppäimet eivät kaikilta osin täsmää Windowsin kanssa).
 
