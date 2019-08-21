@@ -39,7 +39,7 @@ laskuri = laskuri + 1;
 
 {{< /columns >}}
 
-### Laskuri, jota pinenennetään yhdellä
+### Laskuri, jota pienennetään yhdellä
 
 {{< columns >}} <!-- begin columns block -->
 
