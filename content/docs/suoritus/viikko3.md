@@ -1,7 +1,7 @@
 ---
 title: "Viikko 3"
 type: docs
-draft: true
+draft: false
 ---
 
 # Viikko 3 (26.8.–1.9.2019)
@@ -18,9 +18,7 @@ draft: true
 
 Voit halutessasi lukea, ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Dioihin on pyritty koostamaan oleellisimmat opittavat asiat kyseiseltä viikolta. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
 
-**TODO**
-
-{{< button href="https://drive.google.com/file/d/1eQowxh7_KIgaQzKIy_f8nRCdrbaRjc_K/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
+{{< button href="https://drive.google.com/file/d/1-mLwMi3lyl2rpvJ0EXMUXMJ47b1b848D/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
 
 ---
 
