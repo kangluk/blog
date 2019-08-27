@@ -37,6 +37,7 @@ Ohjelmointi 4 | 11–12 | 2 | OHJ02.1
 Ohjelmointi 5 | 13–14 | 2 | OHJ02.1
 
 [Kurkkaa myös Kangasalan lukion opinto-opasta 2019–2020 (PDF:nä)](https://kangasalanlukio-fi-bin.directo.fi/@Bin/1ece96653c916618c3af3354810aff16/1566879315/application/pdf/471123/Kalupakki%202019-20%20uusiops%20opisk%2015.8.pdf)
+
 - voit verrata lukion opinto-oppaan ohjelmointiosuutta (s. 60–61) tämän sivun [Osaamistavoitteet](#osaamistavoitteet)-osioon
 
 ### Käänteinen opetus (flipped learning)
