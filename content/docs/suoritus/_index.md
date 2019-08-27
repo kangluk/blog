@@ -7,9 +7,9 @@ bookToc: true
 # Kurssin suorittaminen
 
 ## OHJ01.1 ja OHJ02.1 -kurssit
-- 7 osaa kummankin kurssin materiaalissa, joka sisältää teorian ja tehtävät
-	- 6 viikkoa lähiopetusta + koeviikko, joka opiskellaan itsenäisesti (tarpeen mukaan luvassa myös Artun livelähetys ja etätukea, tästä sovitaan myöhemmin)
-	- Tavoite: opiskele viikko per osa
+- **7 osaa** kummankin kurssin materiaalissa, joka sisältää teorian ja tehtävät
+	- 6 viikkoa lähiopetusta + koeviikko, joka opiskellaan itsenäisesti (tarpeen mukaan luvassa myös Artun livelähetys / -lähetyksiä ja etätukea toiveiden mukaan, tästä sovitaan myöhemmin oppitunnin yhteydessä)
+	- **Tavoite: opiskele viikko per osa**
 - Jokaisen osan tehtävistä on laadittava **vähintään 25 %** kurssin hyväksymiseksi
 	- Seuraavan osan tehtäviin pääsee käsiksi, kun on tehnyt vähintään 25% edellisen osan tehtävistä (tästä TMC-järjestelmä pitää huolen)
 - Aikaa kannattaa varata tehtävien tekemiseen!
@@ -20,13 +20,24 @@ bookToc: true
 
 ### Kurssisuoritus
 - Ei koetta
-	- Ainoa vaatimus: 25 % per osa hyväksytysti ratkaistu
+	- Ainoa vaatimus: 25 % per osa hyväksytysti ratkaistu (ks. osien jako alta)
 - Kurss(e)ista saa suoritusmerkinnän (S)
 	- Arviointi: hyväksytty / hylätty
 - Periaatteet:
 	- Osien 1–7 suoritus (OHJ01.1 / 1. jakso) = 2 kurssia
 	- Osien 8–14 suoritus (OHJ02.1 / 2. jakso) = 3 kurssia
-	- Jos suorittaa siis molemmat OHJ01.1 ja OHJ02.1 -kurssit, saa yhteensä 5 kurssia ohjelmointikurssista
+	- Jos suorittaa siis molemmat OHJ01.1 ja OHJ02.1 -kurssit, saa yhteensä 5 kurssia ohjelmointikurssista (ks. asiaa havainnollistava taulukko alapuolelta)
+
+Kurssin nimi opinto-oppaassa | Materiaalin osat | Jakso | Kurssin nimi Wilmassa
+--- | --- | --- | --- 
+Ohjelmointi 1 | 1–3 | 1 | OHJ01.1
+Ohjelmointi 2 | 4–7 | 1 | OHJ01.1
+Ohjelmointi 3 | 8–10 | 2 | OHJ02.1
+Ohjelmointi 4 | 11–12 | 2 | OHJ02.1
+Ohjelmointi 5 | 13–14 | 2 | OHJ02.1
+
+[Kurkkaa myös Kangasalan lukion opinto-opasta 2019–2020 (PDF:nä)](https://kangasalanlukio-fi-bin.directo.fi/@Bin/1ece96653c916618c3af3354810aff16/1566879315/application/pdf/471123/Kalupakki%202019-20%20uusiops%20opisk%2015.8.pdf)
+- voit verrata lukion opinto-oppaan ohjelmointiosuutta (s. 60–61) tämän sivun [Osaamistavoitteet](#osaamistavoitteet)-osioon
 
 ### Käänteinen opetus (flipped learning)
 
@@ -54,7 +65,7 @@ bookToc: true
 ### Osaamistavoitteet
 Kursseilla opitaan perustaidot ohjelmoinnista Java-kielellä. Tutuksi tulevat muun muassa syötteen lukeminen, tulostaminen, ehtolauseet, toistolauseet, listojen käsittely ja oliot.
 
-#### OHJ01.1-kurssi (opinto-oppaassa Ohjelmointi 1 ja 2 -kurssit)
+**OHJ01.1-kurssi (opinto-oppaassa Ohjelmointi 1 ja 2 -kurssit, 1. jakso)**
 
 Osa | Osaamistavoitteet
 --- | ---
@@ -66,9 +77,17 @@ Osa | Osaamistavoitteet
 6 |	Ymmärrät staattisten ja ei-staattisten metodien erot. Tunnet hajautustaulun ja osaat käsitellä hajautustaulussa olevaa tietoa. Osaat käyttää olioita hajautustaulun arvona ja tiedät miten oliot toimivat hajautustaulun avaimena. Osaat ryhmitellä tietoa hajautustaulun avulla ja osaat käyttää listaa hajautustaulun arvona. Osaat käyttää olioita sekä tiedon esittämiseen että ohjelman jakamiseen useampaan vastuualueeseen (tekstikäyttöliittymä, sovelluslogiikka).
 7 |	Osaat kertoa proseduraalisen ohjelmoinnin ja olio-ohjelmoinnin eroista ja toteuttaa ohjelmia kumpaakin ohjelmointiparadigmaa noudattaen. Tiedät mitä käsite algoritmi tarkoittaa ja osaat kuvailla muutamien järjestämis- ja hakualgoritmien toimintaa. Osaat kirjoittaa yksikkötestejä ja tiedät testivetoisen ohjelmistokehityksen perusaskeleet.
 
-#### OHJ02.1-kurssi (opinto-oppaassa Ohjelmointi 3, 4 ja 5 -kurssit)
+**OHJ02.1-kurssi (opinto-oppaassa Ohjelmointi 3, 4 ja 5 -kurssit, 2. jakso)**
 
-TAULUKKO TULEE LÄHEMPÄNÄ LOKAKUUTA (2. JAKSOA)
+Osa | Osaamistavoitteet
+--- | ---
+8 |	Tunnet käsitteet perintä ja rajapinta. Osaat luoda luokkia, jotka periytyvät toisesta luokasta ja osaat luoda luokkia, jotka toteuttavat yhden tai useamman rajapinnan. Tiedät miten abstraktit luokat toimivat. Ymmärrät että olio voidaan esittää kaikkien sen todellisten tyyppien avulla.
+9 |	Osaat käsitellä tietokokoelmia virran avulla. Osaat rajata virran arvoja (filter) sekä muuntaa virran arvojen tyyppiä (map). Tunnet käsitteen lambda-lauseke. Osaat järjestää olioita Javan valmista Comparable-rajapintaa hyödyntäen. Tunnet käsitteet säännöllinen lauseke, lueteltu tyyppi, ja iteraattori, ja osaat hyödyntää näitä ohjelmissasi.
+10 |	Tunnet luokkakaaviot ja osaat tulkita ja rakentaa ohjelmia luokkakaavioiden perusteella. Osaat käyttää Javan pakkauksia ja tiedät mistä import-lauseen osat muodostuvat. Tunnet Javan erilaisia poikkeuksia ja osaat käsitellä sekä heittää niitä eteenpäin. Osaat kirjoittaa tietoa tiedostoon ohjelmallisesti.
+11 |	Tiedät mitä geneeriset tyyppiparametrit ovat ja osaat luoda luokkia jotka käyttävät niitä. Tiedät pääpiirteittäin ArrayListin ja HashMapin sisäisen toteutuksen ja osaat luoda niistä yksinkertaistetut omat versiot. Tiedät miten satunnaislukuja luodaan ja osaat käyttää Javan valmiita välineitä satunnaislukujen luomiseen. Tunnet menetelmiä moniulotteisen tiedon esittämiseen ja osaat luoda sekä käsitellä moniulotteisia taulukoita.
+12 |	Tutustut graafisten käyttöliittymien ohjelmointiin. Tunnet muutamia käyttöliittymäkomponentteja, käyttöliittymäkomponenttien asettelun mekanismeja, sekä osaat käsitellä käyttöliittymän tapahtumia. Osaat tehdä käyttöliittymiä, jotka sisältävät useamman näkymän.
+13 |	Tunnet menetelmiä tiedon visualisointiin ja osaat käyttää Javan valmiiksi tarjoamia kaavioita (viivakaavio, pylväskaavio). Osaat käyttää Javan tarjoamia välineitä yksinkertaisten piirrosten luomiseen. Osaat näyttää kuvia sekä soittaa äänitiedostoja. Luot suuremman ohjelman esimerkkiä noudattaen.
+14 |	Tunnet menetelmiä simulaatioiden luomiseen ja kertaat kaksiulotteisten taulukkojen käyttöä. Tiedät, että muiden kirjoittamia kirjastoja voi käyttää osana omia ohjelmia. Kertaat käsitettä yksikkötestaus ja tunnet pääpiirteittäin käsitteen testikattavuus.
 
 ---
 
