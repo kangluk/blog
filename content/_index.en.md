@@ -29,8 +29,8 @@ Fri Aug 16 | 1:30 PM – 2:45 PM | Remote lesson, part 1 | ✅
 Tue Aug 20 | 9:45 AM – 11:00 AM | Part 1 (the fastest students can already move on to part 2) | ✅
 Wed Aug 21 | 12:00 PM – 1:15 PM | **Part 2** | ✅
 Fri Aug 23 | <span style="color:red">**3:00 PM – 4:15 PM <br>NOTE DIFFERENT TIME!**</span> | Remote lesson, part 2 | ✅
-Tue Aug 27 | 9:45 AM – 11:00 AM | Part 2 / 3?
-Wed Aug 28 | 12:00 PM – 1:15 PM | **Part 3**
+Tue Aug 27 | 9:45 AM – 11:00 AM | Part 2 / 3? | ✅
+Wed Aug 28 | 12:00 PM – 1:15 PM | **Part 3** | ✅
 Fri Aug 30 | 1:30 PM – 2:45 PM | Remote lesson, part 3
 Tue Sep 3 | 9:45 AM – 11:00 AM | Part 3 / 4?
 Wed Sep 4 | 12:00 PM – 1:15 PM | **Part 4**
