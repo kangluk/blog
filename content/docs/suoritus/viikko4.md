@@ -18,7 +18,7 @@ draft: false
 
 Voit halutessasi lukea, ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Dioihin on pyritty koostamaan oleellisimmat opittavat asiat kyseiseltä viikolta. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
 
-**TODO, tulossa mahdollisimman pian (tavoite: 3.9. mennessä)**
+{{< button href="https://drive.google.com/file/d/1OK8uR3AYC49ytmiaDuqopRQOFn1dF6Hd/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
 
 ---
 

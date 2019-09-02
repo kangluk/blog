@@ -1,20 +1,20 @@
 ---
-title: "Viikko 4"
+title: "Viikko 5"
 type: docs
 draft: true
 ---
 
-# Viikko 4 (2.–8.9.2019)
+# Viikko 5 (9.–15.9.2019)
 
-## Viikon 4 teoria ja tehtävät
+## Viikon 5 teoria ja tehtävät
 
-{{< button href="https://ohjelmointi-19.mooc.fi/osa-4" target="_blank" >}}Siirry materiaaliin{{< /button >}}
+{{< button href="https://ohjelmointi-19.mooc.fi/osa-5" target="_blank" >}}Siirry materiaaliin{{< /button >}}
 
-## Viikon 4 osaamistavoitteet
+## Viikon 5 osaamistavoitteet
 
-*Tunnet käsitteet tiedosto ja tiedostojärjestelmä ja osaat lukea merkkijonomuotoista tietoa tiedostosta. Tiedät mitä olio-ohjelmointi tarkoittaa. Tunnet olio-ohjelmointiin liittyvät keskeiset käsitteet kuten luokka ja olio. Osaat luoda luokkia ja olioita sekä käyttää niitä osana toteuttamiasi ohjelmia.*
+*Tiedät mitä alkeis- ja viittaustyyppiset muuttujat ovat ja ymmärrät miten niiden toiminta eroaa toisistaan (muuttujan arvon asetus, metodin parametrina käyttö). Osaat luoda luokkaan useita konstruktoreja sekä useita samannimisiä metodeja. Osaat vertailla olioiden samankaltaisuutta sekä määritellä samankaltaisuuden vertailuun käytettävän metodin. Osaat määritellä luokkaan viittaustyyppisiä oliomuuttujia, käyttää olioita metodin paluuarvona, sekä käyttää listoja oliomuuttujina.*
 
-## Artun tukidiat viikolle 4
+## Artun tukidiat viikolle 5
 
 Voit halutessasi lukea, ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Dioihin on pyritty koostamaan oleellisimmat opittavat asiat kyseiseltä viikolta. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
 
