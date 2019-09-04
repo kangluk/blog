@@ -15,6 +15,7 @@ Kirjoita *sout* ja paina [tabulaattoria (↹)](https://fi.wikipedia.org/wiki/Tab
 Siirry jollekin koodiriville ja paina samaan aikaan [*Alt*](https://fi.wikipedia.org/wiki/Alt), [*Shift* (⇧)](https://fi.wikipedia.org/wiki/Shift) ja *alas-nuolinäppäin* (toimii myös *ylös-nuolinäppäimellä*) | Rivi kopioituu ala- tai yläpuolelle riippuen käytetystä nuolinäppäimestä
 Paina samaan aikaan *Alt*, *Shift* (⇧) ja *F* | Siistii koodin: asettelee sisennykset ja välilyönnit kuntoon (engl. *format selection*)
 Paina samaan aikaan [*Ctrl*](https://en.wikipedia.org/wiki/Control_key) ja välilyönti | Aukeaa ikkuna, joka tarjoaa juuri siihen hetkeen sopivia komentoja. Tätä voi käyttää myös **hakuna**: kirjoita osa koodista ja paina tätä pikanäppäinyhdistelmää: näin ei tarvitse kirjoittaa kaikkea koodia.
+Kirjoita *fore* ja paina tabulaattoria (↹) | Tuottaa for-each -toistolauseen
 
 ## Laskemiseen liittyviä lyhenteitä
 
