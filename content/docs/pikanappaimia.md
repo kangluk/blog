@@ -27,6 +27,8 @@ Paina samaan aikaan [*Ctrl*](https://en.wikipedia.org/wiki/Control_key) ja väli
 ```java
 int laskuri = 0;
 laskuri++;
+// tulostuu 1
+System.out.println(laskuri);
 ``` 
 <---> <!-- magic sparator, between columns -->
 
@@ -35,6 +37,8 @@ laskuri++;
 ```java
 int laskuri = 0;
 laskuri = laskuri + 1;
+// tulostuu 1
+System.out.println(laskuri);
 ``` 
 
 {{< /columns >}}
@@ -48,6 +52,8 @@ laskuri = laskuri + 1;
 ```java
 int laskuri = 0;
 laskuri--;
+// tulostuu -1
+System.out.println(laskuri);
 ``` 
 <---> <!-- magic sparator, between columns -->
 
@@ -56,6 +62,8 @@ laskuri--;
 ```java
 int laskuri = 0;
 laskuri = laskuri - 1;
+// tulostuu -1
+System.out.println(laskuri);
 ``` 
 
 {{< /columns >}}
@@ -67,18 +75,22 @@ laskuri = laskuri - 1;
 **Lyhyempi esitystapa:**
 
 ```java
-int luku1 = 0;
+int luku1 = 4;
 int luku2 = 5;
 luku1 += luku2;
+// tulostuu 9
+System.out.println(luku1);
 ```
 <---> <!-- magic sparator, between columns -->
 
 **Pitempi esitystapa:**
 
 ```java
-int luku1 = 0;
+int luku1 = 4;
 int luku2 = 5;
 luku1 = luku1 + luku2;
+// tulostuu 9
+System.out.println(luku1);
 ```
 
 {{< /columns >}}
@@ -93,6 +105,8 @@ luku1 = luku1 + luku2;
 int luku1 = 15;
 int luku2 = 5;
 luku1 -= luku2;
+// tulostuu 10
+System.out.println(luku1);
 ```
 <---> <!-- magic sparator, between columns -->
 
@@ -102,6 +116,8 @@ luku1 -= luku2;
 int luku1 = 15;
 int luku2 = 5;
 luku1 = luku1 - luku2;
+// tulostuu 10
+System.out.println(luku1);
 ```
 
 {{< /columns >}}
@@ -109,10 +125,11 @@ luku1 = luku1 - luku2;
 
 ## Toistolauseita listan läpikäyntiin
 
-Seuraavissa esimerkeissä käydään samansisältöinen nimilista eri toistolauseilla läpi. Kuten huomaat, while-toistolause on kaikkein työläin tapa listan läpikäymiseen, koska koodirivejä menee siinä eniten saman asian suorittamiseen.
+Seuraavissa esimerkeissä käydään samansisältöinen nimilista eri toistolauseilla läpi (while, for ja for-each). Kuten huomaat, while-toistolause on kaikkein työläin tapa listan läpikäyntiin, koska sen osalta joudut kirjoittamaan eniten koodirivejä saman asian suorittamiseen. Arvaatkin varmaan, mikä näistä toistolauseista on mieluisin vaihtoehto koodarille. :)
 
-### While-toistolause
-While-toistolauseen ehdoista on selitetty tarkemmin osan 2 materiaalissa kohdassa [Toistolauseen ehto](https://ohjelmointi-19.mooc.fi/osa-2/2-loogiset-operaatiot#heading-toistolauseen-ehto). 
+### 1. While-toistolause
+While-toistolause on selitetty tarkemmin teoriassa osan 1 kohdassa [Toistolause ja ikuinen toisto
+](https://ohjelmointi-19.mooc.fi/osa-1/6-toistaminen#heading-toistolause-ja-ikuinen-toisto) sekä osan 2 kohdassa [Toistolauseen ehto](https://ohjelmointi-19.mooc.fi/osa-2/2-loogiset-operaatiot#heading-toistolauseen-ehto).
 
 ```java
 // luodaan nimilista, johon lisätään neljä nimeä:
@@ -133,24 +150,9 @@ while (indeksi < nimilista.size()) {
 }
 ```
 
-### For-each -toistolause
-For-each on selitetty tarkemmin osan 3 materiaalissa kohdassa [Listan läpikäynti for-each -toistolauseella](https://ohjelmointi-19.mooc.fi/osa-3/2-listat#heading-listan-lapikaynti-for-each-toistolauseella).
+### 2. For-toistolause
 
-```java
-// luodaan nimilista, johon lisätään neljä nimeä:
-ArrayList<String> nimilista = new ArrayList<>();
-nimilista.add("Miisa");
-nimilista.add("Teemu");
-nimilista.add("Neea");
-nimilista.add("Niko");
-
-// nimilistan läpikäynti ja tulostaminen for-each -toistolauseella:
-for (String nimi : nimilista) {
-	System.out.println(nimi);
-}
-```
-
-### For-toistolause
+For-toistolausetta ei ole tarkemmin selitetty teoriassa, mutta sitä on käytetty ensimmäisen kerran osan 6 kohdassa [Olio luokkametodin parametrina](https://ohjelmointi-19.mooc.fi/osa-6/1-luokka-ja-oliometodit#heading-olio-luokkametodin-parametrina).
 
 ```java
 // luodaan nimilista, johon lisätään neljä nimeä:
@@ -163,6 +165,23 @@ nimilista.add("Niko");
 // nimilistan läpikäynti ja tulostaminen for-toistolauseella:
 for (int indeksi = 0; indeksi < nimilista.size(); indeksi++) {
 	String nimi = nimilista.get(indeksi);
+	System.out.println(nimi);
+}
+```
+
+### 3. For-each -toistolause
+For-each -toistolause on selitetty tarkemmin teoriassa osan 3 kohdassa [Listan läpikäynti for-each -toistolauseella](https://ohjelmointi-19.mooc.fi/osa-3/2-listat#heading-listan-lapikaynti-for-each-toistolauseella).
+
+```java
+// luodaan nimilista, johon lisätään neljä nimeä:
+ArrayList<String> nimilista = new ArrayList<>();
+nimilista.add("Miisa");
+nimilista.add("Teemu");
+nimilista.add("Neea");
+nimilista.add("Niko");
+
+// nimilistan läpikäynti ja tulostaminen for-each -toistolauseella:
+for (String nimi : nimilista) {
 	System.out.println(nimi);
 }
 ```
