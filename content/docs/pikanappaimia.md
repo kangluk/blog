@@ -83,6 +83,90 @@ luku1 = luku1 + luku2;
 
 {{< /columns >}}
 
+### Luku, jota pienennetään toisella luvulla
+
+{{< columns >}} <!-- begin columns block -->
+
+**Lyhyempi esitystapa:**
+
+```java
+int luku1 = 15;
+int luku2 = 5;
+luku1 -= luku2;
+```
+<---> <!-- magic sparator, between columns -->
+
+**Pitempi esitystapa:**
+
+```java
+int luku1 = 15;
+int luku2 = 5;
+luku1 = luku1 - luku2;
+```
+
+{{< /columns >}}
+
+
+## Toistolauseita listan läpikäyntiin
+
+Seuraavissa esimerkeissä käydään samansisältöinen nimilista eri toistolauseilla läpi. Kuten huomaat, while-toistolause on kaikkein työläin tapa listan läpikäymiseen, koska koodirivejä menee siinä eniten saman asian suorittamiseen.
+
+### While-toistolause
+While-toistolauseen ehdoista on selitetty tarkemmin osan 2 materiaalissa kohdassa [Toistolauseen ehto](https://ohjelmointi-19.mooc.fi/osa-2/2-loogiset-operaatiot#heading-toistolauseen-ehto). 
+
+```java
+// luodaan nimilista, johon lisätään neljä nimeä:
+ArrayList<String> nimilista = new ArrayList<>();
+nimilista.add("Miisa");
+nimilista.add("Teemu");
+nimilista.add("Neea");
+nimilista.add("Niko");
+
+// indeksi-apumuuttuja while-toistolauseeseen:
+int indeksi = 0;
+
+// nimilistan läpikäynti ja tulostaminen while-toistolauseella:
+while (indeksi < nimilista.size()) {
+	String nimi = nimilista.get(indeksi);
+	System.out.println(nimi);
+	indeksi++;
+}
+```
+
+### For-each -toistolause
+For-each on selitetty tarkemmin osan 3 materiaalissa kohdassa [Listan läpikäynti for-each -toistolauseella](https://ohjelmointi-19.mooc.fi/osa-3/2-listat#heading-listan-lapikaynti-for-each-toistolauseella).
+
+```java
+// luodaan nimilista, johon lisätään neljä nimeä:
+ArrayList<String> nimilista = new ArrayList<>();
+nimilista.add("Miisa");
+nimilista.add("Teemu");
+nimilista.add("Neea");
+nimilista.add("Niko");
+
+// nimilistan läpikäynti ja tulostaminen for-each -toistolauseella:
+for (String nimi : nimilista) {
+	System.out.println(nimi);
+}
+```
+
+### For-toistolause
+
+```java
+// luodaan nimilista, johon lisätään neljä nimeä:
+ArrayList<String> nimilista = new ArrayList<>();
+nimilista.add("Miisa");
+nimilista.add("Teemu");
+nimilista.add("Neea");
+nimilista.add("Niko");
+
+// nimilistan läpikäynti ja tulostaminen for-toistolauseella:
+for (int indeksi = 0; indeksi < nimilista.size(); indeksi++) {
+	String nimi = nimilista.get(indeksi);
+	System.out.println(nimi);
+}
+```
+
 ---
 Tämä sivu täydentyy kurssin edetessä. Kertokaa, jos jokin pikanäppäin ei toimi (Macissa näppäimet eivät kaikilta osin täsmää Windowsin kanssa).
 
