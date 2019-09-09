@@ -1,7 +1,7 @@
 ---
 title: "Viikko 5"
 type: docs
-draft: true
+draft: false
 ---
 
 # Viikko 5 (9.–15.9.2019)
@@ -18,9 +18,9 @@ draft: true
 
 Voit halutessasi lukea, ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Dioihin on pyritty koostamaan oleellisimmat opittavat asiat kyseiseltä viikolta. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
 
-**TODO**
+{{< button href="https://drive.google.com/file/d/1H7dn3iaaZV_OrAF4HGcAu0Ko9GXVeKp-/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
 
-{{< button href="https://drive.google.com/file/d/1eQowxh7_KIgaQzKIy_f8nRCdrbaRjc_K/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
+Dioissa esitelty nisäkäs-aiheinen malliprojekti *olio-ohjelmointiesimerkki* löytyy osoitteesta https://github.com/kangluk/olio-ohjelmointiesimerkki
 
 ---
 
