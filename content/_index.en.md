@@ -36,7 +36,7 @@ Tue Sep 3 | 9:45 AM – 11:00 AM | Part 3 / 4? | ✅
 Wed Sep 4 | 12:00 PM – 1:15 PM | **Part 4** | ✅
 Fri Sep 6 | 1:30 PM – 2:45 PM | Remote lesson, part 4 | ✅
 Tue Sep 10 | 9:45 AM – 11:00 AM | Part 4 / 5? | ✅
-Wed Sep 11 | 12:00 PM – 1:15 PM | **Part 5**
+Wed Sep 11 | 12:00 PM – 1:15 PM | **Part 5** | ✅
 Fri Sep 13 | 1:30 PM – 2:45 PM | Remote lesson, part 5
 Tue Sep 17 | 9:45 AM – 11:00 AM | Part 5 / 6?
 Wed Sep 18 | 12:00 PM – 1:15 PM | **Part 6**
