@@ -1,7 +1,7 @@
 ---
 title: "Viikko 6"
 type: docs
-draft: true
+draft: false
 ---
 
 # Viikko 6 (16.–22.9.2019)
@@ -18,9 +18,9 @@ draft: true
 
 Voit halutessasi lukea, ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Dioihin on pyritty koostamaan oleellisimmat opittavat asiat kyseiseltä viikolta. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
 
-**TODO**
+{{< button href="https://drive.google.com/file/d/18Ogshybpc078K0hhYyj7V4uLQ65KUg3V/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
 
-{{< button href="https://drive.google.com/file/d/1eQowxh7_KIgaQzKIy_f8nRCdrbaRjc_K/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
+Dioissa esitelty jäsenrekisteri-aiheinen malliprojekti *Jasenrekisteri* löytyy osoitteesta https://github.com/areee/Jasenrekisteri
 
 ---
 
