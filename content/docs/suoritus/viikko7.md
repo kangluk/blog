@@ -1,7 +1,7 @@
 ---
 title: "Viikko 7"
 type: docs
-draft: true
+draft: false
 ---
 
 # Viikko 7 (23.9.–1.10.2019)
@@ -18,9 +18,7 @@ draft: true
 
 Voit halutessasi lukea, ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Dioihin on pyritty koostamaan oleellisimmat opittavat asiat kyseiseltä viikolta. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
 
-**TODO**
-
-{{< button href="https://drive.google.com/file/d/1eQowxh7_KIgaQzKIy_f8nRCdrbaRjc_K/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
+{{< button href="https://drive.google.com/file/d/1C4RZ3nxrd5J3RsDHC7tuH6WfAru6zq1k/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
 
 ---
 
