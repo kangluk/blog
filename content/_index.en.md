@@ -42,7 +42,7 @@ Tue Sep 17 | 9:45 AM – 11:00 AM | Part 5 / 6? | ✅
 Wed Sep 18 | 12:00 PM – 1:15 PM | **Part 6** | ✅
 Fri Sep 20 | 1:30 PM – 2:45 PM | Remote lesson, part 6 | ✅
 Week 39 (Sep 23–29) | Exam week | Independent studying and doing exercises (25% per part) and **one remote lesson (see below)**.<br>You can also post questions to Arttu on WhatsApp during the exam week.
-Fri Sep 27 | 1:30 PM – 2:45 PM | Remote lesson
+Fri Sep 27 | 1:30 PM – 2:45 PM | Remote lesson | ✅
 Week 40 (Sep 30 – Oct 1) | Exam week | Independent studying and doing exercises (25% per part).<br>You can also post questions to Arttu on WhatsApp during the exam week.
 
 If you find any errors in the schedule or anywhere (materials, lessons, etc.), feel free to report it to Arttu!

@@ -42,7 +42,7 @@ ti 17.9. | 9.45-11.00 | Osa 5 / 6? | ✅
 ke 18.9. | 12.00-13.15 | **Osa 6** | ✅
 pe 20.9. | 13.30-14.45 | Etätunti, osa 6 | ✅
 Viikko 39 (23.–29.9.) | Koeviikko | Itsenäistä opiskelua ja tehtävien tekoa (erityisesti **osa 7**; 25 % per osa) sekä **yksi etätunti (ks. alla)**.<br>Voit koeviikolla myös laittaa kysymyksiä tehtävistä Artulle WhatsAppin kautta.
-pe 27.9. | 13.30-14.45 | Etätunti, osa 7
+pe 27.9. | 13.30-14.45 | Etätunti, osa 7 | ✅
 Viikko 40 (30.9.–1.10.) | Koeviikko | Itsenäistä opiskelua ja tehtävien tekoa (25 % per osa).<br>Voit koeviikolla myös laittaa kysymyksiä tehtävistä Artulle WhatsAppin kautta.
 
 Jos löydät virheitä aikataulusta tai mistä tahansa (materiaalit, opetus, jne.), ilmoita asiasta rohkeasti Artulle! En suutu tietenkään :)
