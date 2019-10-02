@@ -13,9 +13,40 @@ Sivuston ylläpidosta vastaa ohjelmoinnin opettaja [Arttu Ylhävuori](https://tw
 
 ## Paikka ja aika
 
-Kurssin lähiopetus pidetään biologian **luokassa 235** perjantain tunteja lukuunottamatta. **Perjantaisin** on luvassa verkossa pidettävät **etätunnit** (Artun live-lähetykset Helsingistä). Linkki lähetykseen ilmoitetaan myöhemmin WhatsApp-ryhmässä.
+Kurssin lähiopetus pidetään **neuvottelutilassa 222** perjantain tunteja lukuunottamatta. **Perjantaisin** on luvassa verkossa pidettävät **etätunnit** (Artun live-lähetykset Helsingistä). Linkki lähetykseen ilmoitetaan aina WhatsApp-ryhmässä ennen etätunnin alkamista.
 
 *Muistutus*: olet itse vastuussa siitä, että luet oppimateriaalia. Kaikkea ei tarvitse ymmärtää kerralla, ja kysymyksiä saa aina esittää oppitunnilla ja/tai WhatsAppissa (Arttu vastaa niihin alla olevina opetusaikoina).
+
+### OHJ02.1-kurssin aikataulu (2. jakso)
+
+Aikataulu tarkentuu koko ajan kurssin edetessä kurssilaisten etenemisen mukaan.
+
+Pvm | Klo | Teema | Suoritettu 
+--- | --- | --- | ---
+ke 2.10. | 12.00-13.15 | **Osa 8 / osa 1**. Kurssin aloitus, uusien kurssilaisten osalta ohjelmointiympäristön käyttöönottoa.
+pe 4.10. | 13.30-14.45 | Etätunti, osa 8 / osa 1 
+ti 8.10. | 9.45-11.00 | Osa 8 / osa 1 (nopeimmat voivat jo siirtyä osaan 9 / osaan 2) 
+ke 9.10. | 12.00-13.15 | **Osa 9 / osa 2** 
+pe 11.10. | 13.30-14.45 | Etätunti, osa 9 / osa 2
+Viikko 42<br>(14.–20.10.2019) | Syysloma | Ei opetusta, nauttikaa lomasta!
+ti 22.10. | 9.45-11.00 | Osa 9 / osa 2 (nopeimmat voivat jo siirtyä osaan 10 / osaan 3) 
+ke 23.10. | 12.00-13.15 | **Osa 10 / osa 3** 
+pe 25.10. | 13.30-14.45 | Etätunti, osa 10 / osa 3 
+ti 29.10. | 9.45-11.00 | Osa 10 / osa 3 (nopeimmat voivat jo siirtyä osaan 11 / osaan 4) 
+ke 30.10. | 12.00-13.15 | **Osa 11 / osa 4** 
+pe 1.11. | 13.30-14.45 | Etätunti, osa 11 / osa 4
+ti 5.11. | 9.45-11.00 | Osa 11 / osa 4 (nopeimmat voivat jo siirtyä osaan 12 / osaan 5)
+ke 6.11. | 12.00-13.15 | **Osa 12 / osa 5** 
+pe 8.11. | 13.30-14.45 | Etätunti, osa 12 / osa 5
+ti 12.11. | 9.45-11.00 | Osa 12 / osa 5 (nopeimmat voivat jo siirtyä osaan 13 / osaan 6)
+ke 13.11. | 12.00-13.15 | **Osa 13 / osa 6** 
+pe 15.11. | 13.30-14.45 | Etätunti, osa 13 / osa 6
+ti 19.11. | 9.45-11.00 | Osa 13 / osa 6 (nopeimmat voivat jo siirtyä osaan 14 / osaan 7)
+Viikko 47 (20.–24.11.) | Koeviikko | Itsenäistä opiskelua ja tehtävien tekoa (erityisesti **osa 14 / osa 7**; 25 % per osa) sekä **yksi etätunti (ks. alla)**.<br>Voit koeviikolla myös laittaa kysymyksiä tehtävistä Artulle WhatsAppin kautta. 
+pe 22.11. | 13.30-14.45 | Etätunti, osa 14 / osa 7 
+Viikko 48 (25.–28.11.) | Koeviikko | Itsenäistä opiskelua ja tehtävien tekoa (25 % per osa).<br>Voit koeviikolla myös laittaa kysymyksiä tehtävistä Artulle WhatsAppin kautta.
+
+---
 
 ### OHJ01.1-kurssin aikataulu (1. jakso)
 
@@ -41,11 +72,10 @@ pe 13.9. | 13.30-14.45 | Etätunti, osa 5 | ✅
 ti 17.9. | 9.45-11.00 | Osa 5 / 6? | ✅
 ke 18.9. | 12.00-13.15 | **Osa 6** | ✅
 pe 20.9. | 13.30-14.45 | Etätunti, osa 6 | ✅
-Viikko 39 (23.–29.9.) | Koeviikko | Itsenäistä opiskelua ja tehtävien tekoa (erityisesti **osa 7**; 25 % per osa) sekä **yksi etätunti (ks. alla)**.<br>Voit koeviikolla myös laittaa kysymyksiä tehtävistä Artulle WhatsAppin kautta.
+Viikko 39 (23.–29.9.) | Koeviikko | Itsenäistä opiskelua ja tehtävien tekoa (erityisesti **osa 7**; 25 % per osa) sekä **yksi etätunti (ks. alla)**.<br>Voit koeviikolla myös laittaa kysymyksiä tehtävistä Artulle WhatsAppin kautta. | ✅
 pe 27.9. | 13.30-14.45 | Etätunti, osa 7 | ✅
-Viikko 40 (30.9.–1.10.) | Koeviikko | Itsenäistä opiskelua ja tehtävien tekoa (25 % per osa).<br>Voit koeviikolla myös laittaa kysymyksiä tehtävistä Artulle WhatsAppin kautta.
+Viikko 40 (30.9.–1.10.) | Koeviikko | Itsenäistä opiskelua ja tehtävien tekoa (25 % per osa).<br>Voit koeviikolla myös laittaa kysymyksiä tehtävistä Artulle WhatsAppin kautta. | ✅
+
+---
 
 Jos löydät virheitä aikataulusta tai mistä tahansa (materiaalit, opetus, jne.), ilmoita asiasta rohkeasti Artulle! En suutu tietenkään :)
-
-### OHJ02.1-kurssin aikataulu (2. jakso)
-AIKATAULU TULEE LÄHEMPÄNÄ LOKAKUUTA

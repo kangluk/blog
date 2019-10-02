@@ -1,10 +1,11 @@
 ---
 title: "Viikko 8"
 type: docs
-draft: true
+bookToc: false
+draft: false
 ---
 
-# Viikko 8 (2.–6.10.2019)
+# Viikko 8 (2.–8.10.2019)
 
 ## Viikon 8 teoria ja tehtävät
 
@@ -13,14 +14,6 @@ draft: true
 ## Viikon 8 osaamistavoitteet
 
 *Tunnet käsitteet perintä ja rajapinta. Osaat luoda luokkia, jotka periytyvät toisesta luokasta ja osaat luoda luokkia, jotka toteuttavat yhden tai useamman rajapinnan. Tiedät miten abstraktit luokat toimivat. Ymmärrät että olio voidaan esittää kaikkien sen todellisten tyyppien avulla.*
-
-## Artun tukidiat viikolle 8
-
-Voit halutessasi lukea, ladata ja/tai tulostaa Artun tekemät tukidiat kullekin kurssin suoritusviikolle. Dioihin on pyritty koostamaan oleellisimmat opittavat asiat kyseiseltä viikolta. Diat ovat saatavilla PDF-muotoisina Google Drivessa:
-
-**TODO**
-
-{{< button href="https://drive.google.com/file/d/1eQowxh7_KIgaQzKIy_f8nRCdrbaRjc_K/view?usp=sharing" target="_blank" >}}Siirry dioihin{{< /button >}}
 
 ---
 
