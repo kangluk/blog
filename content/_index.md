@@ -23,10 +23,10 @@ Aikataulu tarkentuu koko ajan kurssin edetessä kurssilaisten etenemisen mukaan.
 
 Pvm | Klo | Teema | Suoritettu 
 --- | --- | --- | ---
-ke 2.10. | 12.00-13.15 | **Osa 8 / osa 1**. Kurssin aloitus, uusien kurssilaisten osalta ohjelmointiympäristön käyttöönottoa.
-pe 4.10. | 13.30-14.45 | Etätunti, osa 8 / osa 1 
-ti 8.10. | 9.45-11.00 | Osa 8 / osa 1 (nopeimmat voivat jo siirtyä osaan 9 / osaan 2) 
-ke 9.10. | 12.00-13.15 | **Osa 9 / osa 2** 
+ke 2.10. | 12.00-13.15 | **Osa 8 / osa 1 (tai jotain siltä väliltä)**. Kurssin aloitus, uusien kurssilaisten osalta ohjelmointiympäristön käyttöönottoa. | ✅
+pe 4.10. | 13.30-14.45 | Etätunti, osa 8 / osa 6 / osa 5 / osa 4 / osa 1 
+ti 8.10. | 9.45-11.00 | Osa 8 / osa 1 (tai jotain siltä väliltä; nopeimmat voivat jo siirtyä seuraavaan osaan) 
+ke 9.10. | 12.00-13.15 | **Osa 9 / osa 2 (tai jotain siltä väliltä)**
 pe 11.10. | 13.30-14.45 | Etätunti, osa 9 / osa 2
 Viikko 42<br>(14.–20.10.2019) | Syysloma | Ei opetusta, nauttikaa lomasta!
 ti 22.10. | 9.45-11.00 | Osa 9 / osa 2 (nopeimmat voivat jo siirtyä osaan 10 / osaan 3) 
