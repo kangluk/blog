@@ -61,7 +61,7 @@ Ohjelmointi 5 | 13–14 | 2 | OHJ02.1
 - **Vaatimus, jotta poissaoloa ei merkata:** jokaisen perjantain oppitunnilla läsnäolevan on **kysyttävä vähintään yksi (1) kysymys käsiteltävästä aiheesta** livelähetyksen aikana osoittaakseen läsnäolonsa etätunnilla
 	- Muuten en voi tietää, oletko oikeasti ollut oppitunnilla vai jossain baanalla (vaikkapa Helsingin [Baanalla](https://fi.wikipedia.org/wiki/Baana))
 	- Kysymys voi olla ihan mikä vaan, kunhan se liittyy käsiteltävään aiheeseen
-- Artun ehdotus sisällöstä: Google Hangouts -livelähetys, jossa vastaan teidän Whatsappissa lähettämiinne kysymyksiin
+- Artun ehdotus sisällöstä: *YouTube Live* -livelähetys, jossa vastaan teidän Whatsappissa lähettämiinne kysymyksiin
 
 ### Osaamistavoitteet
 Kursseilla opitaan perustaidot ohjelmoinnista Java-kielellä. Tutuksi tulevat muun muassa syötteen lukeminen, tulostaminen, ehtolauseet, toistolauseet, listojen käsittely ja oliot.
