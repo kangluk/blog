@@ -1,18 +1,19 @@
 ---
-title: "Viikko 9"
+title: "Viikko13"
 type: docs
+bookToc: false
 draft: true
 ---
 
-# Viikko 9 (9.–15.10.2019)
+# Viikko 13 (13.–19.11.2019)
 
-## Viikon 9 teoria ja tehtävät
+## Viikon 13 teoria ja tehtävät
 
-{{< button href="https://ohjelmointi-19.mooc.fi/osa-8" target="_blank" >}}Siirry materiaaliin{{< /button >}}
+{{< button href="https://ohjelmointi-19.mooc.fi/osa-13" target="_blank" >}}Siirry materiaaliin{{< /button >}}
 
-## Viikon 9 osaamistavoitteet
+## Viikon 13 osaamistavoitteet
 
-*Osaat käsitellä tietokokoelmia virran avulla. Osaat rajata virran arvoja (filter) sekä muuntaa virran arvojen tyyppiä (map). Tunnet käsitteen lambda-lauseke. Osaat järjestää olioita Javan valmista Comparable-rajapintaa hyödyntäen. Tunnet käsitteet säännöllinen lauseke, lueteltu tyyppi, ja iteraattori, ja osaat hyödyntää näitä ohjelmissasi.*
+*Tunnet menetelmiä tiedon visualisointiin ja osaat käyttää Javan valmiiksi tarjoamia kaavioita (viivakaavio, pylväskaavio). Osaat käyttää Javan tarjoamia välineitä yksinkertaisten piirrosten luomiseen. Osaat näyttää kuvia sekä soittaa äänitiedostoja. Luot suuremman ohjelman esimerkkiä noudattaen.*
 
 ---
 
