@@ -19,31 +19,29 @@ Kurssin lähiopetus pidetään **neuvottelutilassa 222** perjantain tunteja luku
 
 ### OHJ02.1-kurssin aikataulu (2. jakso)
 
-Aikataulu tarkentuu koko ajan kurssin edetessä kurssilaisten etenemisen mukaan.
-
-**Lihavoituna** keskiviikon teemat. Tavoitteena on, että joka keskiviikkona (tai jo tiistaina) pääset siirtymään seuraavaan osaan pysyäksesi tavoiteaikataulussa.
+Päivitän aikataulua koko ajan teidän etenemisenne mukaan. T. Arttu
 
 Pvm | Klo | Teema | Suoritettu 
 --- | --- | --- | ---
-ke 2.10. | 12.00-13.15 | **Osa 8 / osa 1 (tai jotain siltä väliltä)**. Kurssin aloitus, uusien kurssilaisten osalta ohjelmointiympäristön käyttöönottoa. | ✅
+ke 2.10. | 12.00-13.15 | Osa 8 / osa 1 (tai jotain siltä väliltä). Kurssin aloitus, uusien kurssilaisten osalta ohjelmointiympäristön käyttöönottoa. | ✅
 pe 4.10. | 13.30-14.45 | Etätunti, osa 8 / osa 6 / osa 5 / osa 4 / osa 1 | ✅
-ti 8.10. | 9.45-11.00 | Osa 8 / osa 6 / osa 5 / osa 4 / osa 1. Nopeimmat voivat jo siirtyä seuraavaan osaan. | ✅
-ke 9.10. | 12.00-13.15 | (Osa 10 /) **osa 9 / osa 7 / osa 5 / osa 4 / osa 2** (/ osa 1)
-pe 11.10. | 13.30-14.45 | Etätunti, (osa 10 /) osa 9 / osa 7 / osa 5 / osa 4 / osa 2 (/ osa 1)
+ti 8.10. | 9.45-11.00 | Osa 9 / osa 6 / osa 5 / osa 4 / osa 1. Nopeimmat voivat jo siirtyä seuraavaan osaan. | ✅
+ke 9.10. | 12.00-13.15 | Osa 10 / osa 7 / osa 5 / osa 4 / osa 1 | ✅
+pe 11.10. | 13.30-14.45 | Etätunti, osa 10 / osa 7 / osa 5 / osa 4 / osa 1
 *Viikko 42 (14.–20.10.2019)* | *Syysloma* | *Ei opetusta, nauttikaa lomasta!*
-ti 22.10. | 9.45-11.00 | Osa 9 / osa 2 (tai jotain siltä väliltä; nopeimmat voivat jo siirtyä osaan 10 / osaan 3) 
+ti 22.10. | 9.45-11.00 | Osa 10 / osa 1 (tai jotain siltä väliltä; nopeimmat voivat jo siirtyä seuraavaan osaan) 
 ke 23.10. | 12.00-13.15 | **Osa 10 / osa 3** 
 pe 25.10. | 13.30-14.45 | Etätunti, osa 10 / osa 3 
-ti 29.10. | 9.45-11.00 | Osa 10 / osa 3 (nopeimmat voivat jo siirtyä osaan 11 / osaan 4) 
+ti 29.10. | 9.45-11.00 | Osa 10 / osa 3 (nopeimmat voivat jo siirtyä seuraavaan osaan) 
 ke 30.10. | 12.00-13.15 | **Osa 11 / osa 4** 
 pe 1.11. | 13.30-14.45 | Etätunti, osa 11 / osa 4
-ti 5.11. | 9.45-11.00 | Osa 11 / osa 4 (nopeimmat voivat jo siirtyä osaan 12 / osaan 5)
+ti 5.11. | 9.45-11.00 | Osa 11 / osa 4 (nopeimmat voivat jo siirtyä seuraavaan osaan)
 ke 6.11. | 12.00-13.15 | **Osa 12 / osa 5** 
 pe 8.11. | 13.30-14.45 | Etätunti, osa 12 / osa 5
-ti 12.11. | 9.45-11.00 | Osa 12 / osa 5 (nopeimmat voivat jo siirtyä osaan 13 / osaan 6)
+ti 12.11. | 9.45-11.00 | Osa 12 / osa 5 (nopeimmat voivat jo siirtyä seuraavaan osaan)
 ke 13.11. | 12.00-13.15 | **Osa 13 / osa 6** 
 pe 15.11. | 13.30-14.45 | Etätunti, osa 13 / osa 6
-ti 19.11. | 9.45-11.00 | Osa 13 / osa 6 (nopeimmat voivat jo siirtyä osaan 14 / osaan 7)
+ti 19.11. | 9.45-11.00 | Osa 13 / osa 6 (nopeimmat voivat jo siirtyä seuraavaan osaan)
 Viikko 47 (20.–24.11.) | Koeviikko | Itsenäistä opiskelua ja tehtävien tekoa (erityisesti **osa 14 / osa 7**; 25 % per osa) sekä **yksi etätunti (ks. alla)**.<br>Voit koeviikolla myös laittaa kysymyksiä tehtävistä Artulle WhatsAppin kautta. 
 pe 22.11. | 13.30-14.45 | Etätunti, osa 14 / osa 7 
 Viikko 48 (25.–28.11.) | Koeviikko | Itsenäistä opiskelua ja tehtävien tekoa (25 % per osa).<br>Voit koeviikolla myös laittaa kysymyksiä tehtävistä Artulle WhatsAppin kautta.
