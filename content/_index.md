@@ -19,7 +19,7 @@ Kurssin lähiopetus pidetään **neuvottelutilassa 222** perjantain tunteja luku
 
 ### OHJ02.1-kurssin aikataulu (2. jakso)
 
-Päivitän aikataulua koko ajan teidän etenemisenne mukaan. T. Arttu
+Päivitän aikataulua teidän etenemisenne mukaan. T. Arttu
 
 Pvm | Klo | Teema | Suoritettu 
 --- | --- | --- | ---
