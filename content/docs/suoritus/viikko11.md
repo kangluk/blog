@@ -2,7 +2,7 @@
 title: "Viikko11"
 type: docs
 bookToc: false
-draft: true
+draft: false
 ---
 
 # Viikko 11 (30.10.–5.11.2019)
