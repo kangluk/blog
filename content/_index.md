@@ -30,7 +30,7 @@ ke 9.10. | 12.00-13.15 | Osa 10 / osa 7 / osa 5 / osa 4 / osa 1 | ✅
 pe 11.10. | 13.30-14.45 | Etätunti, osa 11 / osa 7 / osa 5 / osa 4 / osa 1 | ✅
 *Viikko 42 (14.–20.10.2019)* | *Syysloma* | *Ei opetusta, nauttikaa lomasta!* | ✅
 ti 22.10. | 9.45-11.00 | Osa 11 / osa 8 / osa 5 / osa 4 / osa 1. Nopeimmat voivat jo siirtyä seuraavaan osaan. | ✅
-ke 23.10. | 12.00-13.15 | Osa 12 / osa 8 / osa 5 / osa 4 / osa 1.
+ke 23.10. | 12.00-13.15 | Osa 12 / osa 8 / osa 5 / osa 4 / osa 2.
 pe 25.10. | 13.30-14.45 | Etätunti, ~~osa 10 / osa 3~~ <br>**Huom: Tästä eteenpäin aikataulu on vielä alustavaa, päivitän sitä etenemisenne mukaan...**
 ti 29.10. | 9.45-11.00 | ~~Osa 11 / osa 3~~. Nopeimmat voivat jo siirtyä seuraavaan osaan.
 ke 30.10. | 12.00-13.15 | ~~**Osa 11 / osa 4**~~
