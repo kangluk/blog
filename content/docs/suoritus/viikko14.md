@@ -2,7 +2,7 @@
 title: "Viikko14"
 type: docs
 bookToc: false
-draft: true
+draft: false
 ---
 
 # Viikko 14 (20.–28.11.2019)
