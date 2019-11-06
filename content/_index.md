@@ -36,7 +36,7 @@ ti 29.10. | 9.45-11.00 | Osa 13 / osa 9 / osa 5 / osa 2. Nopeimmat voivat jo sii
 ~~ke 30.10.~~ | ~~12.00-13.15~~ | **Ei oppituntia liikuntapäivän vuoksi!** <br>Tehdään tehtäviä itsenäisesti, osa 14 / osa 9 / osa 5 / osa 2. | ✅
 pe 1.11. | 13.30-14.45 | Etätunti, osa 14 / osa 9 / osa 6 / osa 5 / osa 2. | ✅
 ti 5.11. | 9.45-11.00 | Osa 14 / osa 9 / osa 6 / osa 5 / osa 2. Nopeimmat voivat jo siirtyä seuraavaan osaan. | ✅
-ke 6.11. | 12.00-13.15 | Osa 9 / osa 6 / osa 2.
+ke 6.11. | 12.00-13.15 | Osa 9 / osa 6 / osa 2. | ✅
 pe 8.11. | 13.30-14.45 | Etätunti, osa 9 / osa 6 / osa 2.
 ti 12.11. | 9.45-11.00 | ~~Osa 12 / osa 5~~. Nopeimmat voivat jo siirtyä seuraavaan osaan. <br>**Huom: Tästä eteenpäin aikataulu on vielä alustavaa, päivitän sitä etenemisenne mukaan...**
 ke 13.11. | 12.00-13.15 | ~~**Osa 13 / osa 6**~~
