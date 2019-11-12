@@ -38,9 +38,9 @@ pe 1.11. | 13.30-14.45 | Etätunti, osa 14 / osa 9 / osa 6 / osa 5 / osa 2. | �
 ti 5.11. | 9.45-11.00 | Osa 14 / osa 9 / osa 6 / osa 5 / osa 2. Nopeimmat voivat jo siirtyä seuraavaan osaan. | ✅
 ke 6.11. | 12.00-13.15 | Osa 9 / osa 6 / osa 2. | ✅
 pe 8.11. | 13.30-14.45 | Etätunti, osa 10 / osa 6 / osa 2. | ✅
-ti 12.11. | 9.45-11.00 | Osa 12 / osa 6 / osa 2. Nopeimmat voivat jo siirtyä seuraavaan osaan. 
-ke 13.11. | 12.00-13.15 | Osa 12 / osa 6 / osa 2.
-pe 15.11. | 13.30-14.45 | Etätunti, osa 12 / osa 6 / osa 2.
+ti 12.11. | 9.45-11.00 | Osa 12 / osa 6 / osa 2. Nopeimmat voivat jo siirtyä seuraavaan osaan. | ✅
+ke 13.11. | 12.00-13.15 | Osa 13 / osa 6 / osa 2.
+pe 15.11. | 13.30-14.45 | Etätunti, osa 13 / osa 6 / osa 2.
 ti 19.11. | 9.45-11.00 | **Viimeinen lähiopetuskerta.**<br>~~Osa 13 / osa 6~~. Nopeimmat voivat jo siirtyä seuraavaan osaan. <br>**Huom: Tästä eteenpäin aikataulu on vielä alustavaa, päivitän sitä etenemisenne mukaan...**
 Viikko 47 (20.–24.11.) | Koeviikko | Itsenäistä opiskelua ja tehtävien tekoa (erityisesti ~~**osa 14 / osa 7**~~; 25 % per osa) sekä **yksi etätunti (ks. alla)**.<br>Voit koeviikolla myös laittaa kysymyksiä tehtävistä Artulle WhatsAppin kautta. 
 pe 22.11. | 13.30-14.45 | **Viimeinen etätunti.**<br>~~Osa 14 / osa 7~~ 
