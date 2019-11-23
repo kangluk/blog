@@ -42,8 +42,8 @@ ti 12.11. | 9.45-11.00 | Osa 12 / osa 6 / osa 2. Nopeimmat voivat jo siirtyä se
 ke 13.11. | 12.00-13.15 | Osa 13 / osa 7 / osa 6 / osa 2. | ✅
 pe 15.11. | 13.30-14.45 | Etätunti, osa 14 / osa 7 / osa 2. | ✅
 ti 19.11. | 9.45-11.00 | **Viimeinen lähiopetuskerta: nyyttärit!**<br>Osa 14 / osa 7 / osa 3 / osa 2. | ✅
-Viikko 47 (20.–24.11.) | Koeviikko | **Itsenäistä opiskelua** ja tehtävien tekoa (tee viimeiset tehtävät, tavoite: 25 % tehtävistä tehtynä per osa) sekä **yksi etätunti (ks. alla)**.<br>Voit tarvittaessa lähettää kysymyksiä tehtävistä Artulle _WhatsAppin_ kautta. 
-pe 22.11. | 13.30-14.45 | **Viimeinen etätunti.**<br>Osa 14 / osa 7 / osa 2.
+Viikko 47 (20.–24.11.) | Koeviikko | **Itsenäistä opiskelua** ja tehtävien tekoa (tee viimeiset tehtävät, tavoite: 25 % tehtävistä tehtynä per osa) sekä **yksi etätunti (ks. alla)**.<br>Voit tarvittaessa lähettää kysymyksiä tehtävistä Artulle _WhatsAppin_ kautta. | ✅ 
+pe 22.11. | 13.30-14.45 | **Viimeinen etätunti.**<br>Osa 3 / osa 2. [Miten koodaamista kannattaisi jatkaa tästä eteenpäin?](/docs/mita_kurssin_jalkeen) | ✅
 Viikko 48 (25.–28.11.) | Koeviikko | **Itsenäistä opiskelua** ja tehtävien tekoa (tee viimeiset tehtävät, tavoite: 25 % tehtävistä tehtynä per osa).<br>Voit tarvittaessa lähettää kysymyksiä tehtävistä Artulle _WhatsAppin_ kautta.
 
 ---
